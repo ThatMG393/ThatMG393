@@ -2,18 +2,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thatmg3o3&label=Lovely%20Visitors&color=0c6196&style=flat-square" alt="thatmg3o3" /> </p>
 
 - 🔭 I’m currently working on [andropiler](https://github.com/ThatMG393/andropiler)
+- 🌱 I’m currently learning: **Java, Bash and Groovy**
+- 👨‍💻 All of my projects are available [here](https://github.com/ThatMG393?tab=repositories)
+- 📫 How to reach me **thatmg393@gmail.com**
+- ⚡ Fun fact: **My source codes gets deleted 2-3 times a year!**
 
-- 🌱 I’m currently learning **Java, Bash and Groovy**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ThatMG393](https://github.com/ThatMG393)
-
-- 📫 How to reach me "**thatmg393@gmail.com**"
-
-- ⚡ Fun fact "**My code is very unoptimized**"
-
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <p align="left">
-<a href="https://twitter.com/tmg393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tmg393" height="30" width="40" /></a>
+   <a href="https://twitter.com/tmg393" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tmg393" height="30" width="40" />
+   </a>
 </p>
 
 ## Languages and etc.
