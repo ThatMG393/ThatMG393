@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm ThatMG393</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thatmg3o3&label=Lovely%20Visitors&color=0c6196&style=flat-square" alt="thatmg3o3" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=thatmg393&label=Visits%20&color=0c6196&style=flat-square" alt="thatmg393" /> 
+</p>
+
 
 - 🔭 I’m currently working on [andropiler](https://github.com/ThatMG393/andropiler)
 - 🌱 I’m currently learning: **Java, Bash and Groovy**
@@ -14,7 +17,7 @@
    </a>
 </p>
 
-## Languages and etc.
+## Technologies:
 <h3 align="center">Languages:</h3>
 <p align="center">
    <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -36,13 +39,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="18" height="18"/>
   </a>
 </p>
-<h4 align="center">Cloud Service:</h4>
-<p align="center">
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="48" height="48"/>
-  </a>
-</p>
-<h5 align="center">Frameworks:</h4>
+<h4 align="center">Frameworks:</h4>
 <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="46" height="46"/>
@@ -62,7 +59,18 @@
 </p>
 
 
-<h3 align="left">Github Stats:</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thatmg393&show_icons=true&theme=dark&locale=en&layout=compact" alt="thatmg393" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thatmg393&theme=highcontrast" alt="thatmg393" />
+### Github Stats:
+<a href="https://github.com/ThatMG393">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatMG393&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=4078c0&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/ThatMG393">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThatMG393&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4078c0&bg_color=1d1f21" alt="MG's GitHub Stats" />
 
+### Projects:
+</a>
+<a href="https://github.com/ThatMG393/ESManager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThatMG393&repo=ESManager&title_color=4078c0&text_color=ffffff&icon_color=aaaaaa&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/ThatMG393/andropiler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThatMG393&repo=andropiler&title_color=4078c0&text_color=ffffff&icon_color=aaaaaa&bg_color=1d1f21" />
+</a>    
