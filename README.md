@@ -42,7 +42,7 @@
 <h4 align="center">Frameworks:</h4>
 <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="46" height="46"/>
+    <img src="https://source.android.com/static/docs/setup/images/Android_symbol_green_RGB.svg" alt="android" width="46" height="46"/>
   </a> 
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="28" height="28"/>
