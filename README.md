@@ -56,6 +56,9 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="48" height="48"/>
   </a>
+  <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
+    <img src="https://godotengine.org/themes/godotengine/assets/press/icon_color.svg" alt="godot" width="38" height="38"/>
+  </a>
 </p>
 
 
