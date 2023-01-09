@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on **Nothing**
-- 🌱 I’m currently learning: **Java, Bash and Groovy**
+- 🌱 I’m currently learning: **Java**
 - 👨‍💻 All of my projects are available [here](https://github.com/ThatMG393?tab=repositories)
 - 📫 How to reach me **thatmg393@gmail.com**
 - ⚡ Fun fact: **My source codes gets deleted 2-3 times a year!**
