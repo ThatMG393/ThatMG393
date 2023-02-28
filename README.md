@@ -3,12 +3,11 @@
   <img src="https://komarev.com/ghpvc/?username=thatmg393&label=Visits%20&color=0c6196&style=flat-square" alt="thatmg393" /> 
 </p>
 
-
-- 🔭 I’m currently working on **Nothing**
-- 🌱 I’m currently learning: **Java**
+- 🔭 I’m currently working on **[gpu_accel_termux](https://github.com/ThatMG393/gpu_accel_termux)**
+- 🌱 I’m currently learning: **Java, Bash, Lua**
 - 👨‍💻 All of my projects are available [here](https://github.com/ThatMG393?tab=repositories)
 - 📫 How to reach me **thatmg393@gmail.com**
-- ⚡ Fun fact: **My source codes gets deleted 2-3 times a year!**
+- ⚡ Fun fact: **I make boilerplated code**
 
 ## Connect with me:
 <p align="left">
