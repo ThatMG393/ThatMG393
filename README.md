@@ -75,4 +75,7 @@
 </a>
 <a href="https://github.com/ThatMG393/andropiler">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThatMG393&repo=andropiler&title_color=4078c0&text_color=ffffff&icon_color=aaaaaa&bg_color=1d1f21" />
-</a>    
+</a>
+<a href="https://github.com/ThatMG393/gpu_accel_termux">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThatMG393&repo=gpu_accel_termux&title_color=4078c0&text_color=ffffff&icon_color=aaaaaa&bg_color=1d1f21" />
+</a>
