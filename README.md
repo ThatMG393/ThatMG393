@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=thatmg393&label=Visits%20&color=0c6196&style=flat-square" alt="thatmg393" /> 
 </p>
 
-- 🔭 I’m currently working on **[ESMRework](https://github.com/ThatMG393/ESMRework)** *the link is broken currently*
+- 🔭 I’m currently working on **[ESMRework](https://github.com/ThatMG393/ESMRework)** 
 - 🌱 I’m currently learning: **Java, Bash, Lua**
 - 👨‍💻 All of my projects are available [here](https://github.com/ThatMG393?tab=repositories)
 - 📫 How to reach me **thatmg393@gmail.com**
