@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            564 Commits
+                            566 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="306.80654301020365" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="306.80654301020365" y="0" width="95.33174582215132" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="402.138288832355" y="0" width="45.10052064451449" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="447.23880947686945" y="0" width="5.008498898883973" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="452.2473083757534" y="0" width="3.699739349599942" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="455.94704772535334" y="0" width="3.0367858595123485" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="458.9838335848657" y="0" width="0.7267129514293507" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="459.710546536295" y="0" width="0.2894534637049109" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="306.80509327743556" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="306.80509327743556" y="0" width="95.33129535732616" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="402.13638863476166" y="0" width="45.10030753399215" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="447.23669616875384" y="0" width="5.010648840283147" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="452.24734500903696" y="0" width="3.699721867465056" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="455.94706687650205" y="0" width="3.0367715099879637" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="458.98383838649" y="0" width="0.7267095175404631" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="459.7105479040305" y="0" width="0.2894520959695065" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -298,12 +298,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 118 commits)</small>
+                    <small class="h-details">(computed from last 120 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 39.9 characters per line of code written</li>
+                        <li>Has approximately 39.8 characters per line of code written</li>
                         <li>Mostly pushes code around 13:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -318,6 +318,46 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ThatMG393/Doge-Music</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f1e3aa4</div>
+                                        <div class="message">Await VoiceClient.disconnect()</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ThatMG393/Doge-Music</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#403ffad</div>
+                                        <div class="message">Await VoiceClient.disconnect()</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -374,46 +414,6 @@
                                     <div class="commit">
                                         <div class="sha">#29a4f80</div>
                                         <div class="message">Add optional argument `warn_user` to method music.py#get_bot_voice_client and music.py#is_user_in_voice_channel</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ThatMG393/Doge-Music</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0a34577</div>
-                                        <div class="message">Use `voice_client` instead of using a `joined` variable</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ThatMG393/Doge-Music</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c8eb114</div>
-                                        <div class="message">Renamed `is_joined()` calls to `self.is_joined()`</div>
                                     </div>
                                 </div>
                             </section>
@@ -842,7 +842,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.21m out of 48m repositories</span>
+                                    <span class="gh">ranked 3.01m out of 54m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
