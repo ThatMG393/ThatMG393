@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            662 Commits
+                            663 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="303.1045039956243" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="303.1045039956243" y="0" width="94.18143840400141" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="397.2859423996257" y="0" width="44.6479433939608" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="441.9338857935865" y="0" width="10.406969370900216" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="452.3408551644867" y="0" width="3.655096952858299" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="455.995952117345" y="0" width="3.000142900009155" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="458.99609501735415" y="0" width="0.7179441694073125" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="459.71403918676145" y="0" width="0.2859608132385058" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="303.0321222662315" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="303.0321222662315" y="0" width="94.15894776035039" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="397.1910700265819" y="0" width="44.637281410011084" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="441.8283514365929" y="0" width="10.514332741127017" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="452.34268417771995" y="0" width="3.6542241111978853" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="455.99690828891784" y="0" width="2.99942646218436" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="458.9963347511022" y="0" width="0.7177727234541704" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="459.7141074745564" y="0" width="0.2858925254436102" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -298,12 +298,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 54 commits)</small>
+                    <small class="h-details">(computed from last 55 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 37.2 characters per line of code written</li>
+                        <li>Has approximately 37.3 characters per line of code written</li>
                         <li>Mostly pushes code around 08:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -318,6 +318,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ThatMG393/Doge-Music</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0aa55fa</div>
+                                        <div class="message">Fix a random bug, general improvements</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -387,26 +407,6 @@
                                     <div class="commit">
                                         <div class="sha">#7570b07</div>
                                         <div class="message">Fix some bugs</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ThatMG393/Doge-Music</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#20c4bfe</div>
-                                        <div class="message">Fix multiple same handlers being passed in</div>
                                     </div>
                                 </div>
                             </section>
@@ -835,7 +835,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.09m out of 52.4m repositories</span>
+                                    <span class="gh">ranked 3.19m out of 50.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
