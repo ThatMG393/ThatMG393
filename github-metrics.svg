@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1003 Commits
+                            1004 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="267.05718985241145" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="267.05718985241145" y="0" width="81.94517173555177" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="349.0023615879632" y="0" width="59.3300767431512" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="408.3324383311145" y="0" width="17.59427914280965" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="425.9267174739241" y="0" width="10.964042562260918" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="436.890760036185" y="0" width="10.570843015407947" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="447.46160305159293" y="0" width="9.007485766983823" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="456.4690888185768" y="0" width="3.5309111814232272" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="266.59241432894504" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="266.59241432894504" y="0" width="81.80255767558214" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="348.39497200452723" y="0" width="60.02738645955262" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="408.4223584640798" y="0" width="17.563658771558337" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="425.9860172356382" y="0" width="10.944961186380347" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="436.9309784220185" y="0" width="10.552445948103063" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="447.48342437012155" y="0" width="8.991809503353625" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="456.47523387347525" y="0" width="3.524766126524813" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -298,12 +298,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 54 commits)</small>
+                    <small class="h-details">(computed from last 55 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 34.1 characters per line of code written</li>
+                        <li>Has approximately 33.4 characters per line of code written</li>
                         <li>Mostly pushes code around 14:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
@@ -318,6 +318,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ThatMG393/legacy-vulkanmod</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1610e41</div>
+                                        <div class="message">staging buffer !1!1!!!111</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -388,26 +408,6 @@
                                     <div class="commit">
                                         <div class="sha">#e28dbe8</div>
                                         <div class="message">progress update</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ThatMG393/legacy-vulkanmod</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#99cf438</div>
-                                        <div class="message">debug hud</div>
                                     </div>
                                 </div>
                             </section>
@@ -722,7 +722,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 719k out of 138m users</span>
+                                    <span class="gh">ranked 720k out of 138m users</span>
                                 </div>
                                 <div class="text">Followed by 20 users</div>
                             </div>
@@ -836,7 +836,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.52m out of 206m repositories</span>
+                                    <span class="gh">ranked 3.52m out of 196m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -874,7 +874,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.19m out of 206m repositories</span>
+                                    <span class="gh">ranked 3.19m out of 196m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
