@@ -563,7 +563,7 @@ From https://gitlab.freedesktop.org/panfrost/mesa.git branch panfrost-v10</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.6071184120465336 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.8193018480492693 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -822,7 +822,7 @@ From https://gitlab.freedesktop.org/panfrost/mesa.git branch panfrost-v10</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.54m out of 210m repositories</span>
+                                    <span class="gh">ranked 3.54m out of 199m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -860,7 +860,7 @@ From https://gitlab.freedesktop.org/panfrost/mesa.git branch panfrost-v10</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.22m out of 210m repositories</span>
+                                    <span class="gh">ranked 3.22m out of 199m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
