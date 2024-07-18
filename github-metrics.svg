@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1658" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2108" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -140,7 +140,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 550 repositories
+                            Starred 551 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -298,7 +298,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 59 commits)</small>
+                    <small class="h-details">(computed from last 61 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -318,6 +318,517 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 5 commits in
+                                        <span class="repo">ThatMG393/tree-sitter-lua</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a24dab1</div>
+                                        <div class="message">feat: update bindings again</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#df3a422</div>
+                                        <div class="message">build: bump versions
+
+and change npm scope</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#393d7df</div>
+                                        <div class="message">ci: update workflows</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3fa47ca</div>
+                                        <div class="message">feat: update bindings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5712a1b</div>
+                                        <div class="message">docs: update readme</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 70 commits in
+                                        <span class="repo">ThatMG393/angle</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#95e6630</div>
+                                        <div class="message">Resolve compilation during program link resolve
+
+  Currently, it seems that Program::resolveLink() itself does not
+resolve shader compilations (Shader::resolveCompile()). Therefore,
+in case of many shader compilations without them being destroyed,
+this can result in extra memory usage.
+
+* During resolveLinkImpl() of a program, the compilation of the
+  attached shaders are resolved after successful linking in order
+  to save memory.
+
+Bug: b/342012929
+Change-Id: Iaa6f02a6d2fb3dbd6306660609faa29e73fe82a2
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5684826
+Reviewed-by: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;
+Reviewed-by: Charlie Lao &lt;cclao@google.com&gt;
+Commit-Queue: Amirali Abdolrashidi &lt;abdolrashidi@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c62c98d</div>
+                                        <div class="message">Revert "Temporarily angle_enable_vulkan_api_dump_layer default false"
+
+This reverts commit 3c8a8f7ad9c56192f71f7f8be2d54cbf0457a6a3.
+
+Reason for revert: upstream fix merged
+
+Original change's description:
+&gt; Temporarily angle_enable_vulkan_api_dump_layer default false
+&gt;
+&gt; Causing flaky build failures. There is a fix upstream but it caused
+&gt; another issue so we can't roll yet.
+&gt;
+&gt; Bug: b/350816748
+&gt; Change-Id: I10da65a50988b91fe52f8545bf96a635a43ab438
+&gt; Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5683562
+&gt; Reviewed-by: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;
+&gt; Auto-Submit: Roman Lavrov &lt;romanl@google.com&gt;
+&gt; Commit-Queue: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;
+
+Bug: b/350816748
+Change-Id: I74b5ec94cf1f6625f58b3bfb7ccb471c7004dc9c
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5688777
+Bot-Commit: Rubber Stamper &lt;rubber-stamper@appspot.gserviceaccount.com&gt;
+Commit-Queue: Roman Lavrov &lt;romanl@google.com&gt;
+Auto-Submit: Roman Lavrov &lt;romanl@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7d461b2</div>
+                                        <div class="message">Revert "Vulkan: Use VK_KHR_dynamic_rendering[_local_read]"
+
+This reverts commit c379ff48043a47e444c388c45270db40d3172d50.
+
+Reason for revert: Regresses CPU perf and memory when _not_ using DR
+
+Original change's description:
+&gt; Vulkan: Use VK_KHR_dynamic_rendering[_local_read]
+&gt;
+&gt; Bug: angleproject:42267038
+&gt; Change-Id: I1f4eb0f309992a9c1c287a69520dadf5eff23b26
+&gt; Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5637155
+&gt; Commit-Queue: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;
+&gt; Reviewed-by: Amirali Abdolrashidi &lt;abdolrashidi@google.com&gt;
+&gt; Reviewed-by: Charlie Lao &lt;cclao@google.com&gt;
+
+Bug: angleproject:42267038
+Change-Id: I3865f0d86813f0eeb9085a92875a33bd449b907f
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5691337
+Bot-Commit: Rubber Stamper &lt;rubber-stamper@appspot.gserviceaccount.com&gt;
+Commit-Queue: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e208994</div>
+                                        <div class="message">Add a note about std::aligned_alloc caveats
+
+Doesn't seem worth touching:
+* MSVC remains a special case
+* aligned_alloc adds a constraint on alloc size
+
+Bug: angleproject:352054650
+Change-Id: I20caaf96e70898001c2b9aa698446cfe4803ea0e
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5688795
+Auto-Submit: Roman Lavrov &lt;romanl@google.com&gt;
+Commit-Queue: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;
+Reviewed-by: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b0bb418</div>
+                                        <div class="message">Roll vulkan-deps from 1d4b1061b004 to 67847f196c19 (3 revisions)
+
+https://chromium.googlesource.com/vulkan-deps.git/+log/1d4b1061b004..67847f196c19
+
+Also rolling transitive DEPS:
+  https://chromium.googlesource.com/external/github.com/KhronosGroup/Vulkan-ValidationLayers/+log/d03e2bca31b298fc911f7c89cfaf24d28904492d..d0a37c686014b76cf059a803ebd2a5be7aaa6e15
+
+If this roll has caused a breakage, revert this CL and stop the roller
+using the controls here:
+https://autoroll.skia.org/r/vulkan-deps-angle-autoroll
+Please CC angle-team@google.com,romanl@google.com on the revert to
+ensure that a human
+is aware of the problem.
+
+To file a bug in ANGLE:
+https://bugs.chromium.org/p/angleproject/issues/entry
+
+To report a problem with the AutoRoller itself, please file a bug:
+https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
+
+Documentation for the AutoRoller is here:
+https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
+
+Bug: None
+Tbr: romanl@google.com
+Change-Id: Ib6d72aaa77ddb05707cec37200efed885fb61361
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5691212
+Bot-Commit: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;
+Commit-Queue: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e5b442d</div>
+                                        <div class="message">Disallow read color type conversions for norm16 formats
+
+OpenGL ES is not supposed to convert 16-bit color buffers to
+8-bit pixel types or vice versa during readPixels operation.
+
+Fixed: angleproject:351644552
+Change-Id: I9e51ddc82f62f958b983b5d4609f7e983a941e83
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5686233
+Commit-Queue: Alexey Knyazev &lt;lexa.knyazev@gmail.com&gt;
+Reviewed-by: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#13c93ca</div>
+                                        <div class="message">Roll Chromium from f0fb088cc7f4 to 5748d73603a8 (622 revisions)
+
+https://chromium.googlesource.com/chromium/src.git/+log/f0fb088cc7f4..5748d73603a8
+
+If this roll has caused a breakage, revert this CL and stop the roller
+using the controls here:
+https://autoroll.skia.org/r/chromium-angle-autoroll
+Please CC angle-team@google.com,romanl@google.com on the revert to
+ensure that a human
+is aware of the problem.
+
+To file a bug in Chromium:
+https://bugs.chromium.org/p/chromium/issues/entry
+To file a bug in ANGLE:
+https://bugs.chromium.org/p/angleproject/issues/entry
+
+To report a problem with the AutoRoller itself, please file a bug:
+https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
+
+Documentation for the AutoRoller is here:
+https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
+
+Changed dependencies
+* build: https://chromium.googlesource.com/chromium/src/build.git/+log/b7fc49975c..55c8722b0c
+* buildtools: https://chromium.googlesource.com/chromium/src/buildtools.git/+log/e73bcd11d1..a2464aeead
+* buildtools/reclient: re_client_version:0.150.0.c8b9fcfa-gomaip..re_client_version:0.148.0.41b09b51-gomaip
+* testing: https://chromium.googlesource.com/chromium/src/testing/+log/e6ad538b4a..5f0ab1b223
+* third_party/android_build_tools: https://chromium.googlesource.com/chromium/src/third_party/android_build_tools/+log/5fff3e91aa..45a95bfa7e
+* third_party/catapult: https://chromium.googlesource.com/catapult.git/+log/9b20ae8642..b73579b7b0
+* third_party/depot_tools: https://chromium.googlesource.com/chromium/tools/depot_tools.git/+log/01e29c8b5d..6b6a0ff40b
+* third_party/libc++/src: https://chromium.googlesource.com/external/github.com/llvm/llvm-project/libcxx.git/+log/604bb086b1..37df66525c
+* third_party/libunwind/src: https://chromium.googlesource.com/external/github.com/llvm/llvm-project/libunwind.git/+log/8f49d6467f..d09db732ff
+* tools/android: https://chromium.googlesource.com/chromium/src/tools/android/+log/98c4117f74..e887381724
+* tools/clang: https://chromium.googlesource.com/chromium/src/tools/clang.git/+log/210eabb02a..8eb5d3af47
+* tools/mb: https://chromium.googlesource.com/chromium/src/tools/mb/+log/062978f309..31e7b5378d
+* tools/perf: https://chromium.googlesource.com/chromium/src/tools/perf/+log/c38db6bd79..b16be4632b
+No update to Clang.
+
+Bug: None
+Tbr: romanl@google.com
+Change-Id: Ia7995ce5e3405b88674e7f41d477d920f6f07b4b
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5690654
+Bot-Commit: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;
+Commit-Queue: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0679b3e</div>
+                                        <div class="message">Manual roll vulkan-deps from 17d345a0f23d to 1d4b1061b004 (24 revisions)
+
+Suppressing a new sync hazard warning
+
+Manual roll requested by romanl@google.com
+
+https://chromium.googlesource.com/vulkan-deps.git/+log/17d345a0f23d..1d4b1061b004
+
+Also rolling transitive DEPS:
+  https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang/+log/5939e32b87487fa9c72ab336ebfcc5ae26d9ab6d..42d9adf50b4ad7db2a7212318068ec614b36414f
+  https://chromium.googlesource.com/external/github.com/LunarG/VulkanTools/+log/00c49e3b56cc9748228d2e5b0d1e8e9c4409a02f..88194ef2d87683f963e735793f20ad1ebce70bc5
+  https://chromium.googlesource.com/external/github.com/KhronosGroup/SPIRV-Tools/+log/216574bedb80d439c2533d161e7ea7897504bbb6..9f2ccaef5f70c32bcd6c911a2b09dbb26106b437
+  https://chromium.googlesource.com/external/github.com/KhronosGroup/Vulkan-Headers/+log/190d2cb24e90e5bf2bec0a75604a9b3586485b6d..6c539b2ed2dba2997cdedeac0b376ff2fe382595
+  https://chromium.googlesource.com/external/github.com/KhronosGroup/Vulkan-Utility-Libraries/+log/df78ee39d2ff6c10b4f7f2ae06c7ca64524f9e25..d13c1ee715c4674237aca1c775479e1edde87d3c
+  https://chromium.googlesource.com/external/github.com/KhronosGroup/Vulkan-ValidationLayers/+log/96fb5396040477fbbffdc1b4439dea9447f59d80..d03e2bca31b298fc911f7c89cfaf24d28904492d
+
+If this roll has caused a breakage, revert this CL and stop the roller
+using the controls here:
+https://autoroll.skia.org/r/vulkan-deps-angle-autoroll
+Please CC angle-team@google.com,romanl@google.com on the revert to
+ensure that a human
+is aware of the problem.
+
+To file a bug in ANGLE:
+https://bugs.chromium.org/p/angleproject/issues/entry
+
+To report a problem with the AutoRoller itself, please file a bug:
+https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
+
+Documentation for the AutoRoller is here:
+https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
+
+Bug: angleproject:352094384
+Tbr: romanl@google.com
+Change-Id: If9da3b32eb405aba8472a020be0c3fd732656f27
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5689521
+Commit-Queue: Roman Lavrov &lt;romanl@google.com&gt;
+Reviewed-by: Amirali Abdolrashidi &lt;abdolrashidi@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6052d0f</div>
+                                        <div class="message">Vulkan: Fix EGL_EXT_buffer_age with single buffered surface
+
+The specification:
+
+4) What is the buffer age of a single buffered surface?
+
+    RESOLVED: 0.  This falls out implicitly from the buffer age
+    calculations, which dictate that a buffer's age starts at 0,
+    and is only incremented by frame boundaries.  Since frame
+    boundary functions do not affect single buffered surfaces,
+    their age will always be 0.
+
+Test: angle_end2end_tests --gtest_filter=EGLBufferAgeTest.SingleBuffer*
+Bug: angleproject:3529
+Change-Id: Iab5da26d1bce56d928398cc250d900465fc5d261
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5675986
+Reviewed-by: Charlie Lao &lt;cclao@google.com&gt;
+Commit-Queue: Igor Nazarov &lt;i.nazarov@samsung.com&gt;
+Reviewed-by: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#21fc5e8</div>
+                                        <div class="message">Move loadimage SSE includes/defines out of common headers
+
+Including x86intrin.h from common headers appears to be making the
+"include analysis" tool unhappy. Doesn't look like we actually need it,
+the only possibly relevant place I could find is the loadimage SSE
+implementation - but even that wasn't enabled outside of Windows
+anyways.
+
+It is not clear there is a need for the ANGLE_USE_SSE define in other
+places, at least not at this point. The current implementation also
+appears to be only for Windows. Move all related code to where it is
+used - loadimage implementation.
+
+Bug: angleproject:42266508
+Change-Id: I1eac1510e7515cb6cc85c0332f5de91e0494d3da
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5688790
+Commit-Queue: Roman Lavrov &lt;romanl@google.com&gt;
+Reviewed-by: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c68c7dc</div>
+                                        <div class="message">Roll Chromium from b1148c13c7a9 to f0fb088cc7f4 (639 revisions)
+
+https://chromium.googlesource.com/chromium/src.git/+log/b1148c13c7a9..f0fb088cc7f4
+
+If this roll has caused a breakage, revert this CL and stop the roller
+using the controls here:
+https://autoroll.skia.org/r/chromium-angle-autoroll
+Please CC angle-team@google.com,romanl@google.com on the revert to
+ensure that a human
+is aware of the problem.
+
+To file a bug in Chromium:
+https://bugs.chromium.org/p/chromium/issues/entry
+To file a bug in ANGLE:
+https://bugs.chromium.org/p/angleproject/issues/entry
+
+To report a problem with the AutoRoller itself, please file a bug:
+https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
+
+Documentation for the AutoRoller is here:
+https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
+
+Changed dependencies
+* build: https://chromium.googlesource.com/chromium/src/build.git/+log/52f862e694..b7fc49975c
+* buildtools: https://chromium.googlesource.com/chromium/src/buildtools.git/+log/2054b2e6d5..e73bcd11d1
+* buildtools/reclient: re_client_version:0.148.0.41b09b51-gomaip..re_client_version:0.150.0.c8b9fcfa-gomaip
+* testing: https://chromium.googlesource.com/chromium/src/testing/+log/601765ed01..e6ad538b4a
+* third_party/android_deps: https://chromium.googlesource.com/chromium/src/third_party/android_deps/+log/b11653d13e..48452b983b
+* third_party/catapult: https://chromium.googlesource.com/catapult.git/+log/1ec7890183..9b20ae8642
+* third_party/depot_tools: https://chromium.googlesource.com/chromium/tools/depot_tools.git/+log/9e9fc99280..01e29c8b5d
+* third_party/protobuf: https://chromium.googlesource.com/chromium/src/third_party/protobuf/+log/ed9284c473..da2fe725b8
+* third_party/turbine: xWEBZuFKl1Dvw_zOpabeMkGVYlEllIxK06D-RoC6wUsC..trOc8ouN-n-XhBQXk58CGsBa_7JlsOD6mv__HNEiiVEC
+* tools/android: https://chromium.googlesource.com/chromium/src/tools/android/+log/3b67584e7f..98c4117f74
+* tools/perf: https://chromium.googlesource.com/chromium/src/tools/perf/+log/d7d3f62bf4..c38db6bd79
+No update to Clang.
+
+Bug: None
+Tbr: romanl@google.com
+Change-Id: If27fa369068ff5e110696fd7969b4e45f89deaf9
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5685521
+Commit-Queue: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;
+Bot-Commit: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c379ff4</div>
+                                        <div class="message">Vulkan: Use VK_KHR_dynamic_rendering[_local_read]
+
+Bug: angleproject:42267038
+Change-Id: I1f4eb0f309992a9c1c287a69520dadf5eff23b26
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5637155
+Commit-Queue: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;
+Reviewed-by: Amirali Abdolrashidi &lt;abdolrashidi@google.com&gt;
+Reviewed-by: Charlie Lao &lt;cclao@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2763d52</div>
+                                        <div class="message">Do not rely on 16-bit color read conversions in tests, Part 2
+
+These conversions are not specified.
+
+ImageClearTestMetal should assert that all bits are cleared.
+
+Bug: angleproject:351644552
+Change-Id: I362e244078ad44b777cf926e9512c6af9fe48106
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5684692
+Reviewed-by: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;
+Commit-Queue: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8c546d3</div>
+                                        <div class="message">Vulkan: Limit VkEvent for usage matters for Manhattan31 only
+
+If we use VkEvent to track all image operations causes performance
+regression on some app traces, including manhattan10 trace. This mainly
+because of CPU overhead comes with VkCmdSetEvent, mostly inside vulkan
+driver. These app traces likely not benefit from VkEvent because the
+specific bubble (false dependency) does not manifest on these app
+traces, but the CPU overhead takes a performance toll on it. In order to
+strike a balance between benefit and overhead, this CL removes most of
+VkEvent usage and only leaves the ones that matters for manhattan31. The
+only we still keeps are generateMipmap, dispatchCompute, texture
+sampling. We can always add more if more beneficial usage cases comes up
+and no regression in other traces.
+
+Bug: b/336844257
+Change-Id: I346fe70bc33e57edf04e933a2db0f79738c4481d
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5654737
+Reviewed-by: Amirali Abdolrashidi &lt;abdolrashidi@google.com&gt;
+Reviewed-by: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;
+Commit-Queue: Charlie Lao &lt;cclao@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a68351c</div>
+                                        <div class="message">vulkan: add workround for speical shadowmap at intel device.
+
+this is a dirty quick patch for game TOA at intel device.
+at game TOA, we saw a special combination could cause
+the device lost for intel device. the draw call have
+2d shadow map texture. if this draw call followed any other drawcall
+it will cause device lost, the underhood root cause still unknown.
+it may be related to combined depth stencil layout or any other case.
+will try to use separate depth stencil image layout to try.
+
+Bug: b/349489248
+Change-Id: I4f63fff389b8059d68d27aad387a2fd5888d4ce3
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5672966
+Reviewed-by: Amirali Abdolrashidi &lt;abdolrashidi@google.com&gt;
+Reviewed-by: Yuly Novikov &lt;ynovikov@chromium.org&gt;
+Reviewed-by: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;
+Commit-Queue: Hailin Zhang &lt;hailinzhang@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bc38b7a</div>
+                                        <div class="message">Start ANGLE Intel macOS 14.5 experiment
+
+Bug: chromium:350362798
+Change-Id: I504318306eb96d6983a366595bbde6cb77c0bb67
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5682424
+Reviewed-by: Brian Sheedy &lt;bsheedy@chromium.org&gt;
+Auto-Submit: Yuly Novikov &lt;ynovikov@chromium.org&gt;
+Commit-Queue: Brian Sheedy &lt;bsheedy@chromium.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0a7e1da</div>
+                                        <div class="message">Tests: fix MultithreadFenceDraw, MultithreadFenceTexImage
+
+Before this CL, pixels _after_ swapBuffers() were checked and in a way
+that was causing a data race on mDrawGreen access. It seems to have
+passed in certain special-case scenarios but was mostly broken, which
+might explain the numerous issues that it caused.
+
+After this CL, pixels are checked on each of 5 iterations _before_
+swapBuffers() and mDrawGreen race is eliminated by ensuring read happens
+before the background thread is unblocked.
+
+Bug: b/338429767
+Bug: b/42265212
+Bug: b/42264513
+Bug: b/267953710
+Bug: b/42266622
+Bug: b/328156792
+Bug: b/42266649
+Bug: b/40096752
+Bug: b/42263977
+Change-Id: Id0fa72ea69e29c6fd5abdb225ff1dbadb18b221b
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5675283
+Reviewed-by: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;
+Commit-Queue: Roman Lavrov &lt;romanl@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#640e371</div>
+                                        <div class="message">Do not rely on 16-bit color read conversions in tests
+
+These conversions are not specified.
+
+D3DTextureClearTest should assert that all bits are cleared.
+
+Texture2DNorm16TestES3.TextureNorm16*TextureTest should not use
+16-bit framebuffer attachments as they are tested separately.
+
+Bug: angleproject:40096653
+Bug: angleproject:351644552
+Change-Id: Ib22e9fcc3b643725f25f6ed880569888107928ad
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5683107
+Reviewed-by: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;
+Commit-Queue: Alexey Knyazev &lt;lexa.knyazev@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3c8a8f7</div>
+                                        <div class="message">Temporarily angle_enable_vulkan_api_dump_layer default false
+
+Causing flaky build failures. There is a fix upstream but it caused
+another issue so we can't roll yet.
+
+Bug: b/350816748
+Change-Id: I10da65a50988b91fe52f8545bf96a635a43ab438
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5683562
+Reviewed-by: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;
+Auto-Submit: Roman Lavrov &lt;romanl@google.com&gt;
+Commit-Queue: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a87db6</div>
+                                        <div class="message">Vulkan: Remove unused render pass closure reason
+
+Bug: angleproject:42266019
+Change-Id: I1c516b88677d7c9d3e97e9fd7525cf727be50cc3
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5678940
+Reviewed-by: Amirali Abdolrashidi &lt;abdolrashidi@google.com&gt;
+Commit-Queue: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;
+Auto-Submit: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -362,38 +873,6 @@
                                         <div class="message">Initial Commit
 
 From https://gitlab.freedesktop.org/panfrost/mesa.git branch panfrost-v10</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">master</span>
-                                        in
-                                        <span class="repo">ThatMG393/mesa-Panfrost-Gxxx</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">panfrost-v10</span>
-                                        in
-                                        <span class="repo">ThatMG393/mesa-Panfrost-Gxxx</span>
                                     </div>
                                 </div>
                             </section>
@@ -531,7 +1010,7 @@ From https://gitlab.freedesktop.org/panfrost/mesa.git branch panfrost-v10</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="15.5 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="15.809999999999999 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -550,7 +1029,7 @@ From https://gitlab.freedesktop.org/panfrost/mesa.git branch panfrost-v10</div>
                                     <span class="prefix">Super</span>
                                     stargazer
                                 </div>
-                                <div class="text">Starred 550 repositories</div>
+                                <div class="text">Starred 551 repositories</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -822,7 +1301,7 @@ From https://gitlab.freedesktop.org/panfrost/mesa.git branch panfrost-v10</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.54m out of 207m repositories</span>
+                                    <span class="gh">ranked 3.54m out of 208m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -860,7 +1339,7 @@ From https://gitlab.freedesktop.org/panfrost/mesa.git branch panfrost-v10</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.22m out of 207m repositories</span>
+                                    <span class="gh">ranked 3.22m out of 208m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
