@@ -303,7 +303,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 33.0 characters per line of code written</li>
+                        <li>Has approximately 33.1 characters per line of code written</li>
                         <li>Mostly pushes code around 00:00</li>
                         <li>Mostly active on Friday</li>
                     </ul>
@@ -836,7 +836,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.71m out of 207m repositories</span>
+                                    <span class="gh">ranked 2.71m out of 213m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -874,7 +874,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.85m out of 207m repositories</span>
+                                    <span class="gh">ranked 2.85m out of 213m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6 stars</div>
                             </div>
