@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1061 Commits
+                            1063 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -227,20 +227,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 196mb of code in 13069 edited files across 793 commits</small>
+                <small>estimation from 196mb of code in 13072 edited files across 795 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="242.9757440467948" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="242.9757440467948" y="0" width="75.4248203425916" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="318.4005643893864" y="0" width="61.11750911316641" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="379.5180735025528" y="0" width="24.481749244534996" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="403.9998227470878" y="0" width="21.605276899765993" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="425.6050996468538" y="0" width="17.575945571270527" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="443.1810452181243" y="0" width="9.786908764602593" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="452.9679539827269" y="0" width="7.032046017273095" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="243.0892313762833" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="243.0892313762833" y="0" width="75.38537884606286" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="318.47461022234614" y="0" width="61.0855492621176" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="379.5601594844638" y="0" width="24.46894713478571" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="404.0291066192495" y="0" width="21.593978968263155" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="425.6230855875126" y="0" width="17.566754676375584" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="443.1898402638882" y="0" width="9.781790948924506" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="452.9716312128127" y="0" width="7.028368787187289" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -299,13 +299,13 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 9 commits)</small>
+                    <small class="h-details">(computed from last 11 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 48.5 characters per line of code written</li>
-                        <li>Mostly pushes code around 14:00</li>
+                        <li>Has approximately 47.1 characters per line of code written</li>
+                        <li>Mostly pushes code around 22:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
                 </div>
@@ -332,6 +332,46 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ThatMG393/TPA4Fabric</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3baa9c9</div>
+                                        <div class="message">Early return if ServerPlayerEntity is null</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ThatMG393/TPA4Fabric</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7db378d</div>
+                                        <div class="message">Geyser compat</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -392,46 +432,6 @@
                                     <div class="commit">
                                         <div class="sha">#fbdd9a4</div>
                                         <div class="message">Initial refactor</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ThatMG393/TPA4Fabric</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a823cb6</div>
-                                        <div class="message">Default always allow TPA request</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ThatMG393/TPA4Fabric</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#299664b</div>
-                                        <div class="message">Fix a very stupid typo</div>
                                     </div>
                                 </div>
                             </section>
@@ -554,7 +554,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 197k out of 146m users</span>
+                                    <span class="gh">ranked 197k out of 134m users</span>
                                 </div>
                                 <div class="text">Published 100 public repositories</div>
                             </div>
@@ -746,7 +746,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 604k out of 146m users</span>
+                                    <span class="gh">ranked 604k out of 134m users</span>
                                 </div>
                                 <div class="text">Followed by 25 users</div>
                             </div>
@@ -860,7 +860,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.76m out of 220m repositories</span>
+                                    <span class="gh">ranked 2.76m out of 217m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -898,7 +898,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.64m out of 220m repositories</span>
+                                    <span class="gh">ranked 2.64m out of 217m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
