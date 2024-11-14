@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1189 Commits
+                            1194 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -227,20 +227,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 196mb of code in 13383 edited files across 923 commits</small>
+                <small>estimation from 196mb of code in 13388 edited files across 928 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="253.03708601972778" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="253.03708601972778" y="0" width="71.7729652284124" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="324.81005124814016" y="0" width="58.158373284840465" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="382.96842453298063" y="0" width="23.742767399570177" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="406.71119193255083" y="0" width="20.55921088885215" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="427.27040282140297" y="0" width="16.724968314321927" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="443.99537113572484" y="0" width="9.313054499366286" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="453.3084256350911" y="0" width="6.6915743649088" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="253.17395222685016" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="253.17395222685016" y="0" width="71.72550120050606" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="324.89945342735626" y="0" width="58.11991269395092" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="383.01936612130714" y="0" width="23.727066120253646" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="406.74643224156074" y="0" width="20.545614920561647" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="427.2920471621224" y="0" width="16.71390796088275" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="444.00595512300515" y="0" width="9.306895702983212" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="453.3128508259884" y="0" width="6.687149174011606" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -562,7 +562,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="80.6827515400411 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="80.89493497604383 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -821,7 +821,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.78m out of 221m repositories</span>
+                                    <span class="gh">ranked 2.78m out of 208m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -859,7 +859,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.67m out of 221m repositories</span>
+                                    <span class="gh">ranked 2.67m out of 208m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
