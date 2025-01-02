@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1703" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2120" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -299,12 +299,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 20 commits)</small>
+                    <small class="h-details">(computed from last 23 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 27.8 characters per line of code written</li>
+                        <li>Has approximately 27.7 characters per line of code written</li>
                         <li>Mostly pushes code around 04:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -336,6 +336,562 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ThatMG393/angle</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#675d06e</div>
+                                        <div class="message">PERFORMANCE!</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ThatMG393/angle</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#900c558</div>
+                                        <div class="message">Update main.yml</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1079 commits in
+                                        <span class="repo">ThatMG393/angle</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9410b29</div>
+                                        <div class="message">Roll chromium_revision df89992288..af4b4ec4b6 (1336472:1337199)
+
+Change log: https://chromium.googlesource.com/chromium/src/+log/df89992288..af4b4ec4b6
+Full diff: https://chromium.googlesource.com/chromium/src/+/df89992288..af4b4ec4b6
+
+Changed dependencies
+* build: https://chromium.googlesource.com/chromium/src/build.git/+log/1233783ad7..a2631a79c9
+* buildtools: https://chromium.googlesource.com/chromium/src/buildtools.git/+log/4eb7a10ce6..d2dedd4c7d
+* testing: https://chromium.googlesource.com/chromium/src/testing/+log/b201b08248..61c2fc5044
+* third_party/android_build_tools: https://chromium.googlesource.com/chromium/src/third_party/android_build_tools/+log/240e20ff7f..f7c885fa9e
+* third_party/android_build_tools/lint: uG3kHGeJabRNjw9Eky3VXo5ykOVG8GddMkhJtB377hcC..XCCX7jYHjGwesaVkM8RQKxLrhZeskTdwJL2b8SNUmeAC
+* third_party/android_build_tools/manifest_merger: nVcR6k4nXavEey7s0fJVOqBkkBgtRQbAOdltDmvVJHUC..nLIbc20DdJTXml9o_W8sGgw9qy-ARNSGPjpSaK-iE1oC
+* third_party/android_deps: https://chromium.googlesource.com/chromium/src/third_party/android_deps/+log/b4abde9e37..e23781ce24
+* third_party/depot_tools: https://chromium.googlesource.com/chromium/tools/depot_tools.git/+log/7815620b1f..40cece20d0
+* third_party/kotlin_stdlib: 7D39_IeRRmlY63nkWblJaEJhtjQwqEk5oTqT9hoZxKsC..qtDQdcYfgSh4FeSY3TnkSjnZ5FqCbP1kjk1Zj1m6Jd4C
+* third_party/libc++/src: https://chromium.googlesource.com/external/github.com/llvm/llvm-project/libcxx.git/+log/116395a11e..ec50115f50
+* third_party/libunwind/src: https://chromium.googlesource.com/external/github.com/llvm/llvm-project/libunwind.git/+log/9f0b3768de..8fab97fa5b
+* third_party/r8: ILFR2kx4djOku2KBB58TOiYl20p0BacrbuKnvdrKlOYC..TXt9fw5bGkmX9AINALSX40kRjJ6kaDOdemMcBcZmheYC
+* tools/clang: https://chromium.googlesource.com/chromium/src/tools/clang.git/+log/51579c516e..aa2f8ad74d
+* tools/perf: https://chromium.googlesource.com/chromium/src/tools/perf/+log/dfd08b107f..074c158400
+* tools/rust: https://chromium.googlesource.com/chromium/src/tools/rust.git/+log/26be847460..292a940817
+DEPS diff: https://chromium.googlesource.com/chromium/src/+/df89992288..af4b4ec4b6/DEPS
+
+Clang version changed llvmorg-19-init-14561-gecea8371:llvmorg-20-init-1009-g7088a5ed
+Details: https://chromium.googlesource.com/chromium/src/tools/clang/+/51579c516e100d8e173fc2b80407b41c98afdadc..aa2f8ad74d0f74a5ffecd920f40a8c882dc4e79a/scripts/update.py
+
+TBR=syoussefi@chromium.org,
+BUG=None
+
+Change-Id: I6bb4266c82ec9fe4a4682729c139b5e1b106a1d9
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5761610
+Reviewed-by: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;
+Reviewed-by: Geoff Lang &lt;geofflang@chromium.org&gt;
+Auto-Submit: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;
+Commit-Queue: Geoff Lang &lt;geofflang@chromium.org&gt;
+Commit-Queue: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#26aa4df</div>
+                                        <div class="message">Metal: Update floating-point texture format caps
+
+* Fixed detection of Apple7+ GPUs. Added support
+  for Apple8 and Apple9 GPUs.
+
+* Adjusted filterability and resolvability caps for
+  R32F, RG32F, and RGBA32F formats. This enables
+  GL_OES_texture_float_linear on capable devices.
+
+* Adjusted RGBA32F blendability cap. This enables
+  GL_EXT_float_blend on capable devices.
+
+Bug: angleproject:347739670
+Change-Id: I84d23814d119452f47fff5a1d7dc33f614c35bb7
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5646489
+Reviewed-by: Geoff Lang &lt;geofflang@chromium.org&gt;
+Commit-Queue: Alexey Knyazev &lt;lexa.knyazev@gmail.com&gt;
+Reviewed-by: Kimmo Kinnunen &lt;kkinnunen@apple.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fdecaa1</div>
+                                        <div class="message">Roll VK-GL-CTS from 3a103d23fc67 to 50e83129b558 (11 revisions)
+
+https://chromium.googlesource.com/external/github.com/KhronosGroup/VK-GL-CTS.git/+log/3a103d23fc67..50e83129b558
+
+2024-08-01 syoussefi@google.com Remove DE_NULL from the repo
+2024-08-01 piotr.byszewski@mobica.com Test
+VIEW_INDEX_FROM_DEVICE_INDEX_BIT with GPL
+2024-08-01 syoussefi@google.com Fix incorrect usages of DE_NULL
+2024-08-01 syoussefi@google.com Make VK_NULL_HANDLE strongly typed
+2024-08-01 boris.zanin@amd.com Support for raytracing pipeline libraries
+in Amber
+2024-08-01 boris.zanin@amd.com Use proper Amber repo
+2024-08-01 marcin.hajder@mobica.com Port KC-CTS tests to VK-GL-CTS
+(transform_feedback_geometry), PART 9
+2024-08-01 lorenzo@khronosgroup.org Merge vk-gl-cts/vulkan-cts-1.3.9
+into vk-gl-cts/main
+2024-08-01 rgarcia@igalia.com Allow fetch_sources.py to properly stop
+with Ctrl+C
+2024-08-01 tomnom@google.com Use latest egl.xml and regen files
+2024-07-31 lorenzo@khronosgroup.org Merge vk-gl-cts/github-main into
+vk-gl-cts/main
+
+If this roll has caused a breakage, revert this CL and stop the roller
+using the controls here:
+https://autoroll.skia.org/r/vk-gl-cts-angle-autoroll
+Please CC angle-team@google.com,syoussefi@google.com on the revert to
+ensure that a human
+is aware of the problem.
+
+To file a bug in ANGLE:
+https://bugs.chromium.org/p/angleproject/issues/entry
+
+To report a problem with the AutoRoller itself, please file a bug:
+https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
+
+Documentation for the AutoRoller is here:
+https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
+
+Bug: None
+Tbr: syoussefi@google.com
+Change-Id: I0963b6b07195e4b742e35a2376dcf14e6aa10ff6
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5762516
+Commit-Queue: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;
+Bot-Commit: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#22ed987</div>
+                                        <div class="message">Vulkan: Generate fragment shading rates with compute
+
+Generating fragment shading rates on the CPU could cause avoidable
+stalls or increased latencies due to host&lt;-&gt;device synchronization.
+Instead generate the rates using a compute shader.
+
+Optimize foveated rendering by treating a foveated draw with focal
+points whose gainX or gainY is 0 as if it were an un-foveated draw
+
+Bug: angleproject:42266906
+Change-Id: If8c5504087997666c7d0c1cae8dcc5fab847187e
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5754322
+Reviewed-by: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;
+Reviewed-by: Yuxin Hu &lt;yuxinhu@google.com&gt;
+Commit-Queue: mohan maiya &lt;m.maiya@samsung.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5a159d6</div>
+                                        <div class="message">CL/Vulkan: Pass proper arch flag to clspv
+
+Needed to update the processedOptions
+field so that we append the "-arch=" flag
+based off the device's address bits value.
+
+Bug: angleproject:356328474
+Change-Id: I5f42f4cdf30ccef9e9aad8eb040f6cbdf8d3b750
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5753767
+Reviewed-by: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;
+Commit-Queue: Austin Annestrand &lt;a.annestrand@samsung.com&gt;
+Reviewed-by: Geoff Lang &lt;geofflang@chromium.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cc50c75</div>
+                                        <div class="message">CL/Vulkan: Fix missing kernel enqueue retain/release
+
+According to spec:
+https://registry.khronos.org/OpenCL/specs/3.0-unified/html/OpenCL_API.html#clReleaseKernel
+
+We also need to implicitly retain/release the Kernel object
+on Kernel enqueue APIs along with other kernel resource
+retain/release(s) (i.e. memobjs).
+
+Bug: angleproject:356328473
+Change-Id: Ie6ca228ebece2988d511d9ffd2a617abdc057d0a
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5753766
+Reviewed-by: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;
+Reviewed-by: Geoff Lang &lt;geofflang@chromium.org&gt;
+Commit-Queue: Austin Annestrand &lt;a.annestrand@samsung.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d4f9340</div>
+                                        <div class="message">CL: Conditional enable of Vulkan Validation layers
+
+Rather than force YesIfAvailable always,
+we restrict the Vk validation layers if
+user specifies it in the GN args:
+
+  angle_enable_vulkan_validation_layers
+
+Bug: angleproject:356320155
+Change-Id: I9035d0e7d220ce59db39f1a86f31b403c44088dd
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5753765
+Commit-Queue: Austin Annestrand &lt;a.annestrand@samsung.com&gt;
+Reviewed-by: Geoff Lang &lt;geofflang@chromium.org&gt;
+Reviewed-by: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#31c0f43</div>
+                                        <div class="message">WebGPU: Centralize caps generation
+
+All GL and EGL caps can be generated at display creation time for
+WebGPU. Move all existing logic into a centralized GenerateCaps
+function.
+
+Bug: angleproject:357017322
+Change-Id: I7398d4ee539192d64971023d9a598ac1f11592ad
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5759279
+Commit-Queue: Geoff Lang &lt;geofflang@chromium.org&gt;
+Reviewed-by: Liza Burakova &lt;liza@chromium.org&gt;
+Reviewed-by: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ea63e37</div>
+                                        <div class="message">Enable VK_KHR_synchronization2 if it is available
+
+If the device supports VK_KHR_synchronization2 and
+VkPhysicalDeviceSynchronization2Features.synchronization2
+queried from the device is VK_TRUE,
+Enabled the extension VK_KHR_synchronization2
+and feature VkPhysicalDeviceSynchronization2Features
+when calling vkCreateDevice.
+
+Bug: b/356985874
+Bug: b/336844257
+Change-Id: Iac95f373a283f5a97e126770321769e0f760e5f9
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5759319
+Reviewed-by: Charlie Lao &lt;cclao@google.com&gt;
+Reviewed-by: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;
+Commit-Queue: Yuxin Hu &lt;yuxinhu@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bf72200</div>
+                                        <div class="message">Roll Chromium from dcddee8baaea to df8999228884 (576 revisions)
+
+https://chromium.googlesource.com/chromium/src.git/+log/dcddee8baaea..df8999228884
+
+If this roll has caused a breakage, revert this CL and stop the roller
+using the controls here:
+https://autoroll.skia.org/r/chromium-angle-autoroll
+Please CC angle-team@google.com,geofflang@google.com on the revert to
+ensure that a human
+is aware of the problem.
+
+To file a bug in Chromium:
+https://bugs.chromium.org/p/chromium/issues/entry
+To file a bug in ANGLE:
+https://bugs.chromium.org/p/angleproject/issues/entry
+
+To report a problem with the AutoRoller itself, please file a bug:
+https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
+
+Documentation for the AutoRoller is here:
+https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
+
+Changed dependencies
+* build: https://chromium.googlesource.com/chromium/src/build.git/+log/ab6c61c825..1233783ad7
+* buildtools: https://chromium.googlesource.com/chromium/src/buildtools.git/+log/693d410074..4eb7a10ce6
+* testing: https://chromium.googlesource.com/chromium/src/testing/+log/321ac47375..b201b08248
+* third_party/abseil-cpp: https://chromium.googlesource.com/chromium/src/third_party/abseil-cpp/+log/6a035f479d..4c87034dc5
+* third_party/android_build_tools: https://chromium.googlesource.com/chromium/src/third_party/android_build_tools/+log/45a95bfa7e..240e20ff7f
+* third_party/android_build_tools/lint: TUDJ8S7FzEjpuMB-xxa4SEydVqy-b-CuzRrIB5fMao0C..uG3kHGeJabRNjw9Eky3VXo5ykOVG8GddMkhJtB377hcC
+* third_party/catapult: https://chromium.googlesource.com/catapult.git/+log/5725f1aa1a..1c61efe64f
+* third_party/depot_tools: https://chromium.googlesource.com/chromium/tools/depot_tools.git/+log/be5ff1a6c4..7815620b1f
+* third_party/fuchsia-sdk/sdk: version:22.20240725.1.1..version:22.20240801.2.1
+* third_party/libc++/src: https://chromium.googlesource.com/external/github.com/llvm/llvm-project/libcxx.git/+log/d425bac1e6..116395a11e
+* third_party/libunwind/src: https://chromium.googlesource.com/external/github.com/llvm/llvm-project/libunwind.git/+log/d96f9effac..9f0b3768de
+* tools/android: https://chromium.googlesource.com/chromium/src/tools/android/+log/a80fc95e9f..023f8c071b
+* tools/clang: https://chromium.googlesource.com/chromium/src/tools/clang.git/+log/34b3762aab..51579c516e
+* tools/perf: https://chromium.googlesource.com/chromium/src/tools/perf/+log/4d7f44c503..dfd08b107f
+No update to Clang.
+
+Bug: None
+Tbr: geofflang@google.com
+Change-Id: Ibd5e1937faf39e5203772b2eb076ad19712c0d7b
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5759320
+Bot-Commit: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;
+Commit-Queue: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#06ae828</div>
+                                        <div class="message">Vulkan: Avoid breaking render pass for vertex buffer conversion
+
+Adreno driver does not support VK_FORMAT_FEATURE_VERTEX_BUFFER_BIT for
+VK_FORMAT_R8G8B8A8_USCALED. This cases we hit fallback code path using
+GPU to do conversion. The conversion buffer gets reused since all access
+are from GPU, but that causes render pass break since there is a WAR
+hazard on the conversion buffer. This CL adds the
+isRenderPassStartedAndUsesBuffer check and allocate a new conversion
+buffer if reuse current buffer may break the render pass.
+
+Bug: b/356473483
+Change-Id: Iaa0b9235ba42787f0e3629f0d9174ae768456f8b
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5754324
+Reviewed-by: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;
+Commit-Queue: Charlie Lao &lt;cclao@google.com&gt;
+Reviewed-by: Yuxin Hu &lt;yuxinhu@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#59f6d96</div>
+                                        <div class="message">WebGPU: Run dEQP GLES2 tests.
+
+Add the flags and platform support needed to initialze the WebGPU
+backend.
+
+Set up initial test expectations with broad suppressions.
+
+Current pass rate: 14.27%
+
+Bug: angleproject:356399840
+Change-Id: I1339cd978ca75b59a2e99ee81d93981dc6066f36
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5751601
+Commit-Queue: Geoff Lang &lt;geofflang@chromium.org&gt;
+Reviewed-by: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4902903</div>
+                                        <div class="message">Roll SwiftShader from 01b188e56477 to f72761e86766 (1 revision)
+
+https://swiftshader.googlesource.com/SwiftShader.git/+log/01b188e56477..f72761e86766
+
+2024-07-31 swiftshader.regress@gmail.com Regres: Update test lists @
+01b188e5
+
+If this roll has caused a breakage, revert this CL and stop the roller
+using the controls here:
+https://autoroll.skia.org/r/swiftshader-angle-autoroll
+Please CC angle-team@google.com,geofflang@google.com on the revert to
+ensure that a human
+is aware of the problem.
+
+To file a bug in SwiftShader:
+https://bugs.chromium.org/p/swiftshader/issues/entry
+To file a bug in ANGLE:
+https://bugs.chromium.org/p/angleproject/issues/entry
+
+To report a problem with the AutoRoller itself, please file a bug:
+https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
+
+Documentation for the AutoRoller is here:
+https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
+
+Bug: None
+Tbr: geofflang@google.com
+Use-Permissive-Angle-Pixel-Comparison: True
+Change-Id: I11a0d4589c216e2a7cfa2e2c33cd9e3a89a422cb
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5755793
+Commit-Queue: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;
+Bot-Commit: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e7c5a51</div>
+                                        <div class="message">Roll VK-GL-CTS from 7e90a8e54095 to 3a103d23fc67 (1 revision)
+
+https://chromium.googlesource.com/external/github.com/KhronosGroup/VK-GL-CTS.git/+log/7e90a8e54095..3a103d23fc67
+
+2024-07-31 lordalcol@users.noreply.github.com Merge pull request #470
+from nico/main
+
+If this roll has caused a breakage, revert this CL and stop the roller
+using the controls here:
+https://autoroll.skia.org/r/vk-gl-cts-angle-autoroll
+Please CC angle-team@google.com,geofflang@google.com on the revert to
+ensure that a human
+is aware of the problem.
+
+To file a bug in ANGLE:
+https://bugs.chromium.org/p/angleproject/issues/entry
+
+To report a problem with the AutoRoller itself, please file a bug:
+https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
+
+Documentation for the AutoRoller is here:
+https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
+
+Bug: None
+Tbr: geofflang@google.com
+Change-Id: I2341917f0c8d9e554362fb0a58348001ec1e7b93
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5753778
+Commit-Queue: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;
+Bot-Commit: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2f9b475</div>
+                                        <div class="message">Roll Chromium from cedeeaab3123 to dcddee8baaea (623 revisions)
+
+https://chromium.googlesource.com/chromium/src.git/+log/cedeeaab3123..dcddee8baaea
+
+If this roll has caused a breakage, revert this CL and stop the roller
+using the controls here:
+https://autoroll.skia.org/r/chromium-angle-autoroll
+Please CC angle-team@google.com,geofflang@google.com on the revert to
+ensure that a human
+is aware of the problem.
+
+To file a bug in Chromium:
+https://bugs.chromium.org/p/chromium/issues/entry
+To file a bug in ANGLE:
+https://bugs.chromium.org/p/angleproject/issues/entry
+
+To report a problem with the AutoRoller itself, please file a bug:
+https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
+
+Documentation for the AutoRoller is here:
+https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
+
+Changed dependencies
+* build: https://chromium.googlesource.com/chromium/src/build.git/+log/86fe4ace36..ab6c61c825
+* buildtools: https://chromium.googlesource.com/chromium/src/buildtools.git/+log/77e7e1bd89..693d410074
+* buildtools/reclient: re_client_version:0.148.0.41b09b51-gomaip..re_client_version:0.150.2.a829188f-gomaip
+* testing: https://chromium.googlesource.com/chromium/src/testing/+log/801029c793..321ac47375
+* third_party/catapult: https://chromium.googlesource.com/catapult.git/+log/0fe4d6156d..5725f1aa1a
+* third_party/depot_tools: https://chromium.googlesource.com/chromium/tools/depot_tools.git/+log/e645ef94ae..be5ff1a6c4
+* third_party/libc++/src: https://chromium.googlesource.com/external/github.com/llvm/llvm-project/libcxx.git/+log/17ee1e13e5..d425bac1e6
+* tools/clang: https://chromium.googlesource.com/chromium/src/tools/clang.git/+log/0d40560837..34b3762aab
+* tools/perf: https://chromium.googlesource.com/chromium/src/tools/perf/+log/08e54dc139..4d7f44c503
+* tools/rust: https://chromium.googlesource.com/chromium/src/tools/rust.git/+log/402380629f..26be847460
+* tools/skia_goldctl/linux: efI2ezkEAorAWAqkeLa8K3YQAHaXCravE81JjG-QE3YC..dPSh2hSFImVtYVOiMVjHTBEre0Asyy65tgiDL8miZbgC
+* tools/skia_goldctl/mac_amd64: ayOJemg508kv1NC6bJde9jRScJSZktqEMQwAioD_tFMC..qtaQhHygWRQcSDpg6ZVJNUfceR2EZH3rto0pOFEebzkC
+* tools/skia_goldctl/mac_arm64: 8Gw2_cQqpZYcZec-gR3XgOJwUp2mbwlqXMNI723fmmkC..VRxzxVSfFBWl3AlTnrcO-4gQY5i6AYveLfh2Eop5-UIC
+* tools/skia_goldctl/win: NkjoXPJcBl8mK-9bhdDAIfDTGezDnomqQXjCCcUyC-YC..DJGQjlpG-s27CzX1oKqNQtH9fBh6kgVemcGds9How_4C
+No update to Clang.
+
+Bug: None
+Tbr: geofflang@google.com
+Change-Id: I70125f2661921e9280bd2c11d7bb1057d6d207c9
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5755823
+Commit-Queue: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;
+Bot-Commit: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cc7d022</div>
+                                        <div class="message">Vulkan: Fix serial mismatch during mid-loop flush
+
+  Currently, if the total buffer updates to the image surpasses a
+certain threshold, it results in a flush. However, this can cause
+discrepencies in the queue serial, which can result in incorrect
+behavior on some platforms.
+
+* Updated flushStagedUpdatesImpl() so that the image serial after
+  applying the updates matches that of the current outside command
+  buffer.
+  * That includes when there is a flush in the middle of the update
+    loop, resulting in submission and new queue serial for the CB.
+
+* Added a unit test to check if a large texture can uploaded and
+  deleted after a second small texture is uploaded.
+  * Texture1UploadThenTexture2UploadThenTexture1Delete
+
+* Added a unit test for flushing when uploading cubemap textures.
+
+Bug: b/351650806
+Bug: b/356192937
+Change-Id: I7f9b20e4b7fd49115f22081a9733b4d44b740e4a
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5744377
+Commit-Queue: Amirali Abdolrashidi &lt;abdolrashidi@google.com&gt;
+Reviewed-by: Charlie Lao &lt;cclao@google.com&gt;
+Reviewed-by: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#26cdf62</div>
+                                        <div class="message">Vulkan: Bugfix in dynamic rendering support
+
+Fix 2 bugs -
+
+1. Set VkGraphicsPipelineCreateInfo::flags when linking GPLs
+2. Chain VkRenderingFragmentShadingRateAttachmentInfoKHR struct in
+   VkRenderingInfo::pNext
+
+Bug: angleproject:42267038
+Change-Id: I456c75d57ec64926a21dffe93b05e1bbab2cb262
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5754635
+Commit-Queue: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;
+Reviewed-by: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7c77bb7</div>
+                                        <div class="message">Vulkan: Remove implicit buffer barrier for shader write
+
+When app uses shaders to write to SSBO, right now we are inserting an
+implicit barrier to ensure WAW are in order. But Spec says that
+"Explicit synchronization is required to ensure that the effects of
+buffer and texture data stores performed by shaders will be visible to
+subsequent operations using the same objects". This CL removes the
+implicit barrier for buffer write if the current write comes from
+shaders and relies on explicit glMemoryBarrier to insert a global
+barrier.
+
+Bug: angleproject:350994515
+Change-Id: I8ab039610be9be2ded27ea60dab54bdad08502f6
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5719258
+Reviewed-by: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;
+Commit-Queue: Charlie Lao &lt;cclao@google.com&gt;
+Reviewed-by: Yuxin Hu &lt;yuxinhu@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e932ca2</div>
+                                        <div class="message">Start ANGLE macOS 14.6 experiment on Intel
+
+Bug: chromium:355249262
+Change-Id: I024ff7adec1b244f594b283eae87c6613b1c01ca
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5752465
+Commit-Queue: Brian Sheedy &lt;bsheedy@chromium.org&gt;
+Auto-Submit: Yuly Novikov &lt;ynovikov@chromium.org&gt;
+Reviewed-by: Brian Sheedy &lt;bsheedy@chromium.org&gt;
+Commit-Queue: Yuly Novikov &lt;ynovikov@chromium.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#279c69e</div>
+                                        <div class="message">WebGPU: Fix intended/actual format mismatch for textures
+
+Update WebGPU texture allocation size to use the actual format instead
+of intended. Early-out with an UNIMPLEMENTED if the format is not
+supported yet.
+
+Bug: angleproject:356399840
+Bug: angleproject:344814096
+Change-Id: Idef9ad40c6b1d490964fc398fb077b117612a44b
+Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/5748448
+Reviewed-by: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;
+Commit-Queue: Geoff Lang &lt;geofflang@chromium.org&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
@@ -361,49 +917,6 @@
                                     <div class="commit">
                                         <div class="sha">#348a6b0</div>
                                         <div class="message">Create devcontainer.json</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">master</span>
-                                        in
-                                        <span class="repo">ThatMG393/BabaoeExec</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      repository
-                                        <span class="repo">ThatMG393/BabaoeExec</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">DustinBrett/daedalOS</span>
                                     </div>
                                 </div>
                             </section>
@@ -797,7 +1310,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.97m out of 213m repositories</span>
+                                    <span class="gh">ranked 1.97m out of 223m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 5 times</div>
                             </div>
@@ -870,7 +1383,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.72m out of 213m repositories</span>
+                                    <span class="gh">ranked 2.72m out of 223m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
