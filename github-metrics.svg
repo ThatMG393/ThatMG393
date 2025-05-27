@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1060" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1399" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1951 Commits
+                            1953 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -227,20 +227,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 197mb of code in 14635 edited files across 1644 commits</small>
+                <small>estimation from 197mb of code in 14637 edited files across 1646 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="211.6708797797695" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="211.6708797797695" y="0" width="94.2734108566519" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="305.9442906364214" y="0" width="57.98596511870894" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="363.9302557551303" y="0" width="29.0335766713363" height="8" fill="#00A2FF"/>
-                    <rect mask="url(#languages-bar)" x="392.96383242646664" y="0" width="26.250859081585915" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="419.2146915080525" y="0" width="20.191441006929573" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="439.4061325149821" y="0" width="13.334023527470173" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="452.74015604245227" y="0" width="7.259843957547711" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="211.65252528030658" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="211.65252528030658" y="0" width="94.30512390329767" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="305.9576491836042" y="0" width="57.98093701391372" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="363.9385861975179" y="0" width="29.031059098924" height="8" fill="#00A2FF"/>
+                    <rect mask="url(#languages-bar)" x="392.96964529644197" y="0" width="26.248582805418803" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="419.21822810186075" y="0" width="20.18969015771733" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="439.407918259578" y="0" width="13.332867301692076" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="452.7407855612701" y="0" width="7.259214438729828" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -299,7 +299,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 101 commits)</small>
+                    <small class="h-details">(computed from last 102 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -332,6 +332,210 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 108 commits in
+                                        <span class="repo">ThatMG393/AutoModpack</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#62d84f9</div>
+                                        <div class="message">FileInspection: Return default mod version if not found</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#405d673</div>
+                                        <div class="message">Fix crash, fix unable to connect to servers with selfsigned certs, shorten the lang translations to fit the screen</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#264b5f6</div>
+                                        <div class="message">Add server certificate validation with user confirmation (#351)
+
+* Add server certificate validation with user confirmation
+
+* extract fingerprint out of a secret class
+
+* Add missing translatable messages to the UI and add toast to indicate failure
+
+* Refactor known hosts management and change permissions of ``.private` for unix oses
+
+* Implement certificate chain verification using standard library classes (#352)
+
+* Implement certificate chain verification using standard library classes
+
+* Fix IDE warnings
+
+* Fix compilation failure caused by merge conflict
+
+* Remove duplicate insertion of new known host
+
+* Remove fingerprint from DataPacket
+
+* Save known hosts after manual validation
+
+* Apply review comments
+
+* Make connection errors less verbose on client and on server side
+
+* Extract first connection of DownloadClient from loop
+
+* Fix Fabric exception after manual verification
+
+For obtaining the login connections, Fabric relies on the client's
+current screen being a ConnectScreen. If it receives a login-related
+network while a screen other than a ConnectScreen is active, an
+exception is thrown in certain cases. Therefore, it is important for
+AutoModpack to return to the ConnectScreen once it is done.
+
+* Send fingerprint in minecraft packet
+
+* Revert "Send fingerprint in minecraft packet"
+
+This reverts commit 3afc0061e684eae12c3b79d8899383c1f5f5c721.
+
+* Add CertificateDomainValidator and related tests for domain validation against X.509 certificates
+
+* Implement suggested
+
+* simplified imports
+
+* Use `DefaultHostnameVerifier` from apache httpclient instead of custom CertificateDomainValidator
+
+* Remove custom callbacks
+
+* Bundle the latest apache httpcomponents since we need them on preload
+
+* Refactor modpack address handling to use Jsons.ModpackAddresses
+
+* Suggested en_us.json
+
+Co-authored-by: duckymirror &lt;33291860+duckymirror@users.noreply.github.com&gt;
+
+* Typo en_us.json
+
+Co-authored-by: duckymirror &lt;33291860+duckymirror@users.noreply.github.com&gt;
+
+* Refactor modpack address validation to use isAnyEmpty method
+
+* Prevent unnecessary closure
+
+* Suggested enchantments
+
+* lang?
+
+* Update loader/core/src/main/java/pl/skidam/automodpack_loader_core/client/ModpackUtils.java
+
+Co-authored-by: duckymirror &lt;33291860+duckymirror@users.noreply.github.com&gt;
+
+* Update RU lang file (#356)
+
+---------
+
+Co-authored-by: duckymirror &lt;33291860+duckymirror@users.noreply.github.com&gt;
+Co-authored-by: VideoGamerRUS &lt;84017033+VideoGamerRUS@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e7048af</div>
+                                        <div class="message">FileInspection: Improve logging and set default mod version</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf26797</div>
+                                        <div class="message">Dont require environmentType and optimize</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#05a9184</div>
+                                        <div class="message">Reset flags after doing stuff</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#433845e</div>
+                                        <div class="message">Fixed incorrect behavior, not all duplicated mods were removed from the standard mods dir (while still accounting for exception mods) + small optimization</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#07cfff2</div>
+                                        <div class="message">don't return early, analyze nested mods early instead</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a3e063</div>
+                                        <div class="message">return early, idk lets try this as is</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e1ac9a6</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/main'
+
+# Conflicts:
+#	loader/core/src/main/java/pl/skidam/automodpack_loader_core/client/ModpackUtils.java</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ea5d9f8</div>
+                                        <div class="message">Delete mod runFile after copying to modpackFile - fixes not working removals
+and breaks other things 100%</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a20c283</div>
+                                        <div class="message">Delete mod runFile after copying to modpackFile</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#39dc989</div>
+                                        <div class="message">fix build deprecated error on forge</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a5af01</div>
+                                        <div class="message">stonecutter and loom bump</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d4f9b7c</div>
+                                        <div class="message">Remove loginTicks incrementation from ServerLoginNetworkHandlerMixin</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#934acb7</div>
+                                        <div class="message">release event loop group and traffic shaper resources on server shutdown</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9fcdda7</div>
+                                        <div class="message">Implement TrafficShaper for bandwidth throttling in Netty server
+ref: #108</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c2f36c0</div>
+                                        <div class="message">Implement chunked message writing and reading in DownloadClient</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dec073d</div>
+                                        <div class="message">Add CHUNK_SIZE constant and validate lengths in ZstdDecoder</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#94ceaa3</div>
+                                        <div class="message">metadata update</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#384 Crash with cesium mod - zstd module packaging error</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by ThatMG393 in <span class="repo">Skidamek/AutoModpack</span></div>
+                                    <div class="comment">
+                                        <i>Dev note: I feel like shadow jar is problematic here, i think i need to JiJ all my deps as separate jars and then load them separately with their original module names via a custom classloader similarly to how fabric/forge/connector load other mods. Otherwise it will be problem with any other mod using zstd as well or possibly even any other automodpack dependency. Plus, current way is gross.</i>
+                                        What if you relocate AutoModpack dependencies into different package names?
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -385,46 +589,6 @@ This used to work on Forge 1.20.1. Any chance you can fix it?</div>
                                 </div>
                                 <div class="details">
                                     <div>opened  in <span class="repo">Skidamek/AutoModpack</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ThatMG393-2/FOGLTLOGLES</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#270015a</div>
-                                        <div class="message">disable compute md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ThatMG393-2/FOGLTLOGLES</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d496525</div>
-                                        <div class="message">Update main.h</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
