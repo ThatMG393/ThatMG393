@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2031 Commits
+                            2032 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -227,20 +227,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 197mb of code in 14812 edited files across 1724 commits</small>
+                <small>estimation from 197mb of code in 14815 edited files across 1725 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="212.2511738862882" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="212.2511738862882" y="0" width="96.13017309724414" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="308.38134698353235" y="0" width="57.05825280309874" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="365.4395997866311" y="0" width="28.56907105193218" height="8" fill="#00A2FF"/>
-                    <rect mask="url(#languages-bar)" x="394.00867083856326" y="0" width="25.830873914218618" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="419.8395447527819" y="0" width="19.896067222493507" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="439.7356119752754" y="0" width="13.120693667085058" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="452.85630564236044" y="0" width="7.143694357639574" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="212.1114768854062" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="212.1114768854062" y="0" width="96.36966069393932" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="308.4811375793455" y="0" width="57.0206988680782" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="365.50183644742367" y="0" width="28.550267794118035" height="8" fill="#00A2FF"/>
+                    <rect mask="url(#languages-bar)" x="394.0521042415417" y="0" width="25.81387285104471" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="419.86597709258643" y="0" width="19.88297226113505" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="439.7489493537215" y="0" width="13.112058042031862" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="452.86100739575335" y="0" width="7.138992604246614" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -299,7 +299,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 111 commits)</small>
+                    <small class="h-details">(computed from last 112 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -332,6 +332,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ThatMG393-2/FOGLTLOGLES</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a31af52</div>
+                                        <div class="message">it was interleaved all along</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -412,26 +432,6 @@
                                     <div class="commit">
                                         <div class="sha">#4e108aa</div>
                                         <div class="message">some devenv changes</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ThatMG393-2/FOGLTLOGLES</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d6f6db5</div>
-                                        <div class="message">ughghgh</div>
                                     </div>
                                 </div>
                             </section>
