@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1326" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1010" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -299,12 +299,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 5 commits)</small>
+                    <small class="h-details">(computed from last 6 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 33.3 characters per line of code written</li>
+                        <li>Has approximately 33.7 characters per line of code written</li>
                         <li>Mostly pushes code around 00:00</li>
                         <li>Mostly active on Friday</li>
                     </ul>
@@ -332,6 +332,49 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ThatMG393-2/FOGLTLOGLES</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b2221cc</div>
+                                        <div class="message">optimize shaders (revert a previous fix)
+
+i hope this doesn't cause anymore issues!1!1!1!1!</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#4 Anyone had idea with the renderer? What it can do, etc</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Amoodee10 in <span class="repo">ThatMG393-2/FOGLTLOGLES</span></div>
+                                    <div class="comment">It performs upthere with LTW but not that much
+Basic shaders like MakeUp UltraFast, Mellow, and etc. not those raytracing shader or path-traced. (I know Chocapic V9 doesn't work)
+The renderer advertises OpenGL 4.0 and can only be used on 1.17+ (there's been work to support &lt;1.17 but it's barely functional). OpenGL ES 3.2 is required to have a good experience. (I forced ES 3.2 as a requirement)
+Support &lt;1.17 and then implement the OpenGL 4.6 spec (this might take a long time)
+As far as I know, no. Sodium works fine, same with Embeddium. I don't know about Distant Horizons though.</div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -375,698 +418,6 @@
                                         Starred
                                         <span class="repo">dockur/macos</span>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 57 commits in
-                                        <span class="repo">ThatMG393/angle</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dcc715e</div>
-                                        <div class="message">Enable EGL_PLATFORM_GBM_KHR platform with device selection
-
-FunctionsEGL.cpp:
-- Allow EGL_PLATFORM_GBM_KHR platform and explicit device selection.
-- Skip getPreferredDisplay if an explicit device is specified.
-
-Display.cpp:
-- Use DisplayEGL impl with EGL_PLATFORM_GBM_KHR.
-- Wayland can use GBM platform, and OPENGLES.
-
-angle.gni:
-- Rename ozone_platform_gbm to ozone_platform_drm since its deprecated.
-
-Bug: angleproject:425569857, b/396434686
-Change-Id: I9493118f9dc95f78ebe46277bb4fcfeb7a29d465
-Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/6663699
-Reviewed-by: Geoff Lang &lt;geofflang@chromium.org&gt;
-Commit-Queue: Kramer Ge &lt;fangzhoug@chromium.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e7ede7d</div>
-                                        <div class="message">Roll vulkan-deps from e7bba33afe37 to 216f8f420080 (18 revisions)
-
-https://chromium.googlesource.com/vulkan-deps.git/+log/e7bba33afe37..216f8f420080
-
-Also rolling transitive DEPS:
-  https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang/+log/efd24d75bcbc55620e759f6bf42c45a32abac5f8..e9d166cd3bdb4d3c89c6c89c7d9f196a0c9e4ffb
-  https://chromium.googlesource.com/external/github.com/LunarG/VulkanTools/+log/8e3261f207f1c520522be2021cf364ebb1bad3f0..00e8a166b8c371d8ff6f70ea7872a311b43817ee
-  https://chromium.googlesource.com/external/github.com/KhronosGroup/SPIRV-Headers/+log/2a611a970fdbc41ac2e3e328802aed9985352dca..04b76709bf40a7ce8df3382060ef3620f19de566
-  https://chromium.googlesource.com/external/github.com/KhronosGroup/SPIRV-Tools/+log/33e02568181e3312f49a3cf33df470bf96ef293a..604c3e75a41b3605ac86bdf5bc26987bd9f9589f
-  https://chromium.googlesource.com/external/github.com/KhronosGroup/Vulkan-ValidationLayers/+log/6016c4624f8ad3df64987936bfbeb29f32da2d55..153542280969323563e588308cb8796df5931d06
-
-If this roll has caused a breakage, revert this CL and stop the roller
-using the controls here:
-https://autoroll.skia.org/r/vulkan-deps-angle-autoroll
-Please CC angle-team@google.com,yuxinhu@google.com on the revert to
-ensure that a human
-is aware of the problem.
-
-To file a bug in ANGLE:
-https://bugs.chromium.org/p/angleproject/issues/entry
-
-To report a problem with the AutoRoller itself, please file a bug:
-https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
-
-Documentation for the AutoRoller is here:
-https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
-
-Bug: None
-Tbr: yuxinhu@google.com
-Change-Id: Icd95d43f905e897e4b7a59706ecfabdc07d1c3fd
-Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/6679275
-Bot-Commit: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Commit-Queue: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5023a76</div>
-                                        <div class="message">Roll SwiftShader from ed01d9931de3 to 436722b39118 (1 revision)
-
-https://swiftshader.googlesource.com/SwiftShader.git/+log/ed01d9931de3..436722b39118
-
-2025-06-25 tikuta@google.com Fix conflicting types error in clang
-modules build
-
-If this roll has caused a breakage, revert this CL and stop the roller
-using the controls here:
-https://autoroll.skia.org/r/swiftshader-angle-autoroll
-Please CC angle-team@google.com,yuxinhu@google.com on the revert to
-ensure that a human
-is aware of the problem.
-
-To file a bug in SwiftShader:
-https://bugs.chromium.org/p/swiftshader/issues/entry
-To file a bug in ANGLE:
-https://bugs.chromium.org/p/angleproject/issues/entry
-
-To report a problem with the AutoRoller itself, please file a bug:
-https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
-
-Documentation for the AutoRoller is here:
-https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
-
-Bug: None
-Tbr: yuxinhu@google.com
-Use-Permissive-Angle-Pixel-Comparison: True
-Change-Id: I31eb7618114872edae931e04181238ffef7942b3
-Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/6678109
-Commit-Queue: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Bot-Commit: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#19e4deb</div>
-                                        <div class="message">Roll Chromium from 263c8e504d0e to e9b993c93b3b (576 revisions)
-
-https://chromium.googlesource.com/chromium/src.git/+log/263c8e504d0e..e9b993c93b3b
-
-If this roll has caused a breakage, revert this CL and stop the roller
-using the controls here:
-https://autoroll.skia.org/r/chromium-angle-autoroll
-Please CC angle-team@google.com,yuxinhu@google.com on the revert to
-ensure that a human
-is aware of the problem.
-
-To file a bug in Chromium:
-https://bugs.chromium.org/p/chromium/issues/entry
-To file a bug in ANGLE:
-https://bugs.chromium.org/p/angleproject/issues/entry
-
-To report a problem with the AutoRoller itself, please file a bug:
-https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
-
-Documentation for the AutoRoller is here:
-https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
-
-Changed dependencies
-* build: https://chromium.googlesource.com/chromium/src/build.git/+log/7404e7cb13..660c19b81f
-* buildtools: https://chromium.googlesource.com/chromium/src/buildtools.git/+log/cf875f9ac3..f7862e515c
-* testing: https://chromium.googlesource.com/chromium/src/testing/+log/c4185e4f15..14abe7e6ae
-* third_party/android_deps: https://chromium.googlesource.com/chromium/src/third_party/android_deps/+log/9fc6afe878..06a7007d07
-* third_party/catapult: https://chromium.googlesource.com/catapult.git/+log/0c0721de3c..8b6c661e42
-* third_party/libc++/src: https://chromium.googlesource.com/external/github.com/llvm/llvm-project/libcxx.git/+log/2c359c239b..b5d83e70a1
-* third_party/libc++abi/src: https://chromium.googlesource.com/external/github.com/llvm/llvm-project/libcxxabi.git/+log/e44c3c4560..02570151a8
-* third_party/rust: https://chromium.googlesource.com/chromium/src/third_party/rust/+log/4b5d818f29..10890f1e73
-* third_party/siso/cipd: git_revision:c23de742b8483ddc09d8b68ef845efc7f5c6192f..git_revision:13b7a626dcadfb49c7f4759a44095cebea6e91bc
-* tools/perf: https://chromium.googlesource.com/chromium/src/tools/perf/+log/b1c9da6382..046519adb4
-* tools/rust: https://chromium.googlesource.com/chromium/src/tools/rust.git/+log/12ac1a1b8e..c52b68f9dc
-No update to Clang.
-
-Bug: None
-Tbr: yuxinhu@google.com
-Change-Id: Ibe8856d9ad9cafa0323b37d1cded42c34e611116
-Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/6679272
-Bot-Commit: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Commit-Queue: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d5babf9</div>
-                                        <div class="message">Vulkan: Fix unhandled deferred clears after glGetMultisamplefv
-
-Issue was introduced in the commit that implemented deferred clears.
-The `glGetMultisamplefv()` synchronizes draw framebuffer which defers
-possibly staged clears. Since API is not handling deferred clears they
-are left untouched, causing the ASSERT.
-
-This change fixes the issue by not deferring clears for the
-`glGetMultisamplefv()` command during flushing staged updates of dirty
-framebuffer attachments.
-
-Changes:
-- Add `gl::Command::GetMultisample` enumeration for clarity.
-- Add `gl::CommandBlitBuffer::CommandBlitBufferDepthStencil` enumeration
-  to improve code readability.
-- Add `command` parameter into `gl::State::syncDirtyObject()` method to
-  use actual command enum instead of `Other`.
-- Remove `previousDeferredClears` local variable and update ASSERT in
-  the `FramebufferVk::syncState()` method. New assert ensures empty
-  `mDeferredClears` instead of just checking dirty attachments, since
-  it is easy to make all attachments dirty making old and new assertions
-  act the same.
-- Replace logic in `FramebufferVk::syncState()` that decides whether
-  need to defer attachments or not with switch-case. This makes the
-  logic more clear regarding handling individual commands and simplify
-  updating this handling in the future. Except of the bug fix with
-  `GetMultisample` command, handling of other command is uncached.
-- Remove `flushDeferredClears()` from `FramebufferVk::readPixels()`
-  because `mDeferredClears` are not expected (now it's more clear after
-  the refactoring). And even if there are `mDeferredClears` (in case of
-  a bug or after API failure), `flushDeferredClears()` only flushes
-  clears for the draw framebuffer, while checking `mDeferredClears` of
-  the read framebuffer. This is a problem in case if read and draw
-  framebuffers are not the same.
-
-Bug: angleproject:40644727
-Test: angle_end2end_tests --gtest_filter=TextureMultisampleTest.GetMultisamplefvAfterClear/*
-Test: angle_end2end_tests --gtest_filter=EGLSurfaceTest.GetMultisamplefvAfterClear/*
-Change-Id: I376a62de52de5e17dbc63cc7ddb0506741a69266
-Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/6661958
-Commit-Queue: Igor Nazarov &lt;i.nazarov@samsung.com&gt;
-Reviewed-by: Charlie Lao &lt;cclao@google.com&gt;
-Reviewed-by: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b3ec3a5</div>
-                                        <div class="message">Track active uniform and storage buffer blocks
-
-Track active uniform and storage buffer block indices
-so we can process updates to only active buffer blocks
-
-Bug: angleproject:426412564
-Change-Id: I54fa6fbe795073887646d672303d231ed4317b65
-Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/6663825
-Commit-Queue: mohan maiya &lt;m.maiya@samsung.com&gt;
-Reviewed-by: Charlie Lao &lt;cclao@google.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c455bda</div>
-                                        <div class="message">Roll Chromium from 2fb03826f7a0 to 263c8e504d0e (692 revisions)
-
-https://chromium.googlesource.com/chromium/src.git/+log/2fb03826f7a0..263c8e504d0e
-
-If this roll has caused a breakage, revert this CL and stop the roller
-using the controls here:
-https://autoroll.skia.org/r/chromium-angle-autoroll
-Please CC angle-team@google.com,yuxinhu@google.com on the revert to
-ensure that a human
-is aware of the problem.
-
-To file a bug in Chromium:
-https://bugs.chromium.org/p/chromium/issues/entry
-To file a bug in ANGLE:
-https://bugs.chromium.org/p/angleproject/issues/entry
-
-To report a problem with the AutoRoller itself, please file a bug:
-https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
-
-Documentation for the AutoRoller is here:
-https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
-
-Changed dependencies
-* build: https://chromium.googlesource.com/chromium/src/build.git/+log/8d59c1de51..7404e7cb13
-* buildtools: https://chromium.googlesource.com/chromium/src/buildtools.git/+log/39d3a59234..cf875f9ac3
-* testing: https://chromium.googlesource.com/chromium/src/testing/+log/d1addfdf7f..c4185e4f15
-* third_party/abseil-cpp: https://chromium.googlesource.com/chromium/src/third_party/abseil-cpp/+log/e3d58ba1a2..43850be4d3
-* third_party/android_deps: https://chromium.googlesource.com/chromium/src/third_party/android_deps/+log/f46835180c..9fc6afe878
-* third_party/catapult: https://chromium.googlesource.com/catapult.git/+log/c4f7831fe8..0c0721de3c
-* third_party/depot_tools: https://chromium.googlesource.com/chromium/tools/depot_tools.git/+log/ea7a0baff0..838762e3ae
-* third_party/r8/d8/cipd: F0pTWc6uG70kZPngypnQxCgD3CgY5D8O-pDqj_qeoQMC..9vZCRnASPSjh3_T-2AsumCO_8C5PuBJ5-e84K9b7-80C
-* third_party/rust: https://chromium.googlesource.com/chromium/src/third_party/rust/+log/35982745eb..4b5d818f29
-* tools/android: https://chromium.googlesource.com/chromium/src/tools/android/+log/5a2ef49216..0677411eff
-* tools/clang: https://chromium.googlesource.com/chromium/src/tools/clang.git/+log/3b495dd794..cb4a6fc970
-* tools/luci-go: git_revision:b0488766ec2a119f97c0189ffa5fff13e4da0131..git_revision:6c2c13d25bc8014a0da038302089bc3e9b236931
-* tools/luci-go: git_revision:b0488766ec2a119f97c0189ffa5fff13e4da0131..git_revision:6c2c13d25bc8014a0da038302089bc3e9b236931
-* tools/luci-go: git_revision:b0488766ec2a119f97c0189ffa5fff13e4da0131..git_revision:6c2c13d25bc8014a0da038302089bc3e9b236931
-* tools/perf: https://chromium.googlesource.com/chromium/src/tools/perf/+log/c5b01d0483..b1c9da6382
-* tools/rust: https://chromium.googlesource.com/chromium/src/tools/rust.git/+log/6c0ba3465b..12ac1a1b8e
-Clang version changed llvmorg-21-init-11777-gfd3fecfc:llvmorg-21-init-16348-gbd809ffb
-Details: https://chromium.googlesource.com/chromium/src/tools/clang/+/3b495dd79432abeb32aeb7b51cf4021e4defd24f..cb4a6fc9704f19e6977d7fd1da2a578274b9f611/scripts/update.py
-
-Bug: None
-Tbr: yuxinhu@google.com
-Change-Id: I843a2e1464773a0305a9c37893a286746f8e35ae
-Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/6670383
-Bot-Commit: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Commit-Queue: Yuly Novikov &lt;ynovikov@chromium.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e15d293</div>
-                                        <div class="message">tvOS: Disable child process creation code
-
-tvOS does not support multi-process applications. As a result,
-the code that creates a new process causes build failures when
-building ANGLE unit tests on tvOS. This CL disables that code
-to prevent the build from breaking.
-
-Bug: b/424256388
-Change-Id: Ib638d3f75b2839e1a75efc571645921f0d336e55
-Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/6640919
-Commit-Queue: Yuxin Hu &lt;yuxinhu@google.com&gt;
-Reviewed-by: Yuxin Hu &lt;yuxinhu@google.com&gt;
-Reviewed-by: Solti Ho &lt;solti@google.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#beae1b4</div>
-                                        <div class="message">Metal: Remove obsolete workarounds
-
-Removed Intel-specific Metal workarounds
-that are not used on macOS 12 and later.
-
-Removed a redundant version check.
-
-Bug: angleproject:427600175
-Change-Id: I34c7e53108f7e030512c9436ab2b9ae38ad17946
-Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/6672312
-Commit-Queue: Alexey Knyazev &lt;lexa.knyazev@gmail.com&gt;
-Reviewed-by: Geoff Lang &lt;geofflang@chromium.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1496095</div>
-                                        <div class="message">Roll vulkan-deps from 317a1e4780ef to e7bba33afe37 (15 revisions)
-
-https://chromium.googlesource.com/vulkan-deps.git/+log/317a1e4780ef..e7bba33afe37
-
-Also rolling transitive DEPS:
-  https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang/+log/21b4e37133868b3a50ef15fc027ecd6d3a52c875..efd24d75bcbc55620e759f6bf42c45a32abac5f8
-  https://chromium.googlesource.com/external/github.com/LunarG/VulkanTools/+log/da60ac4327af194dfa773a07db6cd5d5aaa6848d..8e3261f207f1c520522be2021cf364ebb1bad3f0
-  https://chromium.googlesource.com/external/github.com/KhronosGroup/SPIRV-Tools/+log/108b19e5c6979f496deffad4acbe354237afa7d3..33e02568181e3312f49a3cf33df470bf96ef293a
-  https://chromium.googlesource.com/external/github.com/KhronosGroup/Vulkan-Loader/+log/c8a2c8c9164a58ce71c1c77104e28e8de724539e..342da33fdec78d269657194c9082835d647d2e68
-  https://chromium.googlesource.com/external/github.com/KhronosGroup/Vulkan-Utility-Libraries/+log/0f0babb553a60da5971d9f4d40cf720ce01602f1..72665ee1e50db3d949080df8d727dffa8067f5f8
-  https://chromium.googlesource.com/external/github.com/KhronosGroup/Vulkan-ValidationLayers/+log/89c6a9b6500e2e0bda127113bbfe1d70f1ab2d20..6016c4624f8ad3df64987936bfbeb29f32da2d55
-
-If this roll has caused a breakage, revert this CL and stop the roller
-using the controls here:
-https://autoroll.skia.org/r/vulkan-deps-angle-autoroll
-Please CC angle-team@google.com,yuxinhu@google.com on the revert to
-ensure that a human
-is aware of the problem.
-
-To file a bug in ANGLE:
-https://bugs.chromium.org/p/angleproject/issues/entry
-
-To report a problem with the AutoRoller itself, please file a bug:
-https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
-
-Documentation for the AutoRoller is here:
-https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
-
-Bug: None
-Tbr: yuxinhu@google.com
-Change-Id: I9944562cd1530a415cc2173d9e6857555e38714d
-Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/6665688
-Bot-Commit: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Commit-Queue: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#448c8da</div>
-                                        <div class="message">Roll SwiftShader from 0ce9bc68d3fc to ed01d9931de3 (1 revision)
-
-https://swiftshader.googlesource.com/SwiftShader.git/+log/0ce9bc68d3fc..ed01d9931de3
-
-2025-06-23 swiftshader.regress@gmail.com Regres: Update test lists @
-0ce9bc68
-
-If this roll has caused a breakage, revert this CL and stop the roller
-using the controls here:
-https://autoroll.skia.org/r/swiftshader-angle-autoroll
-Please CC angle-team@google.com,yuxinhu@google.com on the revert to
-ensure that a human
-is aware of the problem.
-
-To file a bug in SwiftShader:
-https://bugs.chromium.org/p/swiftshader/issues/entry
-To file a bug in ANGLE:
-https://bugs.chromium.org/p/angleproject/issues/entry
-
-To report a problem with the AutoRoller itself, please file a bug:
-https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
-
-Documentation for the AutoRoller is here:
-https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
-
-Bug: None
-Tbr: yuxinhu@google.com
-Use-Permissive-Angle-Pixel-Comparison: True
-Change-Id: I9883e01ac2797c0dc568965cd7c82352996a8b33
-Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/6666627
-Commit-Queue: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Bot-Commit: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bbeff29</div>
-                                        <div class="message">Roll Chromium from f88e654e8ceb to 2fb03826f7a0 (562 revisions)
-
-https://chromium.googlesource.com/chromium/src.git/+log/f88e654e8ceb..2fb03826f7a0
-
-If this roll has caused a breakage, revert this CL and stop the roller
-using the controls here:
-https://autoroll.skia.org/r/chromium-angle-autoroll
-Please CC angle-team@google.com,yuxinhu@google.com on the revert to
-ensure that a human
-is aware of the problem.
-
-To file a bug in Chromium:
-https://bugs.chromium.org/p/chromium/issues/entry
-To file a bug in ANGLE:
-https://bugs.chromium.org/p/angleproject/issues/entry
-
-To report a problem with the AutoRoller itself, please file a bug:
-https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
-
-Documentation for the AutoRoller is here:
-https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
-
-Changed dependencies
-* build: https://chromium.googlesource.com/chromium/src/build.git/+log/169fcf699b..8d59c1de51
-* buildtools: https://chromium.googlesource.com/chromium/src/buildtools.git/+log/5b7491dfe5..39d3a59234
-* testing: https://chromium.googlesource.com/chromium/src/testing/+log/0d5210a4b1..d1addfdf7f
-* third_party/android_deps: https://chromium.googlesource.com/chromium/src/third_party/android_deps/+log/c7f3762b71..f46835180c
-* third_party/catapult: https://chromium.googlesource.com/catapult.git/+log/a03b70978c..c4f7831fe8
-* third_party/depot_tools: https://chromium.googlesource.com/chromium/tools/depot_tools.git/+log/8f87843807..ea7a0baff0
-* third_party/llvm-libc/src: https://chromium.googlesource.com/external/github.com/llvm/llvm-project/libc.git/+log/3dc83eebbd..79a5aa1b7f
-* third_party/rust: https://chromium.googlesource.com/chromium/src/third_party/rust/+log/274de19b1d..35982745eb
-* third_party/turbine/cipd: npJIrAZr4-2wb6qWV0r2oeWQd-Q1wiMGAAi8Up15SkQC..oD9ecDiZFUZfazjjD0N5yl6G4aJsgODDdNjqIp5m1GwC
-* tools/clang: https://chromium.googlesource.com/chromium/src/tools/clang.git/+log/ae0ff70908..3b495dd794
-* tools/perf: https://chromium.googlesource.com/chromium/src/tools/perf/+log/bd0baf9e31..c5b01d0483
-* tools/skia_goldctl/linux: I1LygzXVm-v4LePMcFJ9j0k1AZoLq1UFO5FvEue2TbsC..DuaWI_iN1aKYqw68BNRC2gsLbwarydFdh-0pBp8HS6UC
-* tools/skia_goldctl/mac_amd64: uI8NbGw_UiTJ3W2CTVNlIycIt9w6x1ozArj3Y3F4UtkC..kfSAMIADvMhxx5OoeY0EajZqqvBTlkVsrDEiWApdnsMC
-* tools/skia_goldctl/mac_arm64: QSSJvE4WdrL_WsuphR6xIEvHYbO5MAX3yzL1OZUDCMEC..TMdajugFqfAjHrtZbG5sFxtFgsHk5GeyYgO7Exhlx20C
-* tools/skia_goldctl/win: 72BoyHuvkKlIhZ3QJunOfOnQ4xpyI3ImPWyF8OcXrHMC..2KZkcCD9mC9MsaKQTOIECvyDm_gtn0YaOjpfdhXw9wcC
-No update to Clang.
-
-Bug: None
-Tbr: yuxinhu@google.com
-Change-Id: Ida6202335aa1acab4cb41f7d9ef10f16536f66bc
-Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/6666420
-Commit-Queue: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Bot-Commit: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#79ac1a8</div>
-                                        <div class="message">Revert "Vulkan: Move VertexArray::ElementBuffer away from observer"
-
-This reverts commit 3f012a43ee2c101543785720eedfeaa80708479d.
-
-Reason for revert: https://issues.chromium.org/427064102
-
-Bug: angleproject:400711938
-Original change's description:
-&gt; Vulkan: Move VertexArray::ElementBuffer away from observer
-&gt;
-&gt; Right now, VertexArray's element buffer is always observing buffer's
-&gt; change. In previous CLs, we have moved vertex array away from
-&gt; subject/observer usage. This CL moves element buffer away from
-&gt; subject/observer as well. Since the gl::Buffer tracks buffer's binding
-&gt; to each context's current vertex array's binding point,
-&gt; kElementArrayBufferIndex is added to VertexArrayBufferBindingMask bits
-&gt; so that the element buffer is tracked exactly the same as other vertex
-&gt; array buffer bindings. The VerextArray code has been modified to handle
-&gt; this special bit, since element buffer has its own binding point
-&gt; VertexArrayState::mElementArrayBuffer as opposed to
-&gt; VertexArrayState::mVertexBindings. After this CL, VertexArray object
-&gt; should be completely off subject/observer usages.
-&gt;
-&gt; Bug: angleproject:400711938
-&gt; Change-Id: I662ddfabc95034bdc7734939c944ab033f41801c
-&gt; Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/6552160
-&gt; Reviewed-by: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;
-&gt; Reviewed-by: Geoff Lang &lt;geofflang@chromium.org&gt;
-&gt; Commit-Queue: Charlie Lao &lt;cclao@google.com&gt;
-
-Bug: angleproject:400711938
-Change-Id: I9487ba8b108baaeda1c8a27189dba64f77616774
-Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/6663539
-Commit-Queue: Charlie Lao &lt;cclao@google.com&gt;
-Reviewed-by: Amirali Abdolrashidi &lt;abdolrashidi@google.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5df8579</div>
-                                        <div class="message">Revert "Vulkan: Avoid some loops in VertexArray::onBufferChanged"
-
-This reverts commit 8d6d127acc1072488e5b57ba4e7e93da2d94bfda.
-
-Reason for revert: https://issues.chromium.org/427064102
-
-Bug: angleproject:400711938
-Original change's description:
-&gt; Vulkan: Avoid some loops in VertexArray::onBufferChanged
-&gt;
-&gt; Before this CL, VertexArray::onBufferChanged() loops over
-&gt; bufferBindingMask bits and calls onSubjectStateChange. In this CL,
-&gt; VertexArray::onSubjectStateChange is embedded into
-&gt; VertexArray::onBufferChanged(). DIRTY_BIT_ELEMENT_ARRAY_BUFFER and
-&gt; DIRTY_BIT_ELEMENT_ARRAY_BUFFER_DATA is re-arranged so that we can map
-&gt; bufferBindingMask directly to VertexArray::mDirtyBits. This especially
-&gt; useful when one buffer is bound to multiple indices in the VertexArray.
-&gt;
-&gt; This CL also removes angle::ObserverInterface from VertexArray, since it
-&gt; no longer observes anything.
-&gt;
-&gt; ASSERT is added in gl::Buffer::mContentsObservers to ensure it only
-&gt; contains BufferTexture, since vertexArray is no longer using the
-&gt; subject/observer.
-&gt;
-&gt; Bug: angleproject:400711938
-&gt; Change-Id: Ie6e7159d7a89f0da5e1b7ca0a9dbe60a1e6c682f
-&gt; Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/6569638
-&gt; Reviewed-by: Geoff Lang &lt;geofflang@chromium.org&gt;
-&gt; Commit-Queue: Charlie Lao &lt;cclao@google.com&gt;
-&gt; Reviewed-by: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;
-
-Bug: angleproject:400711938
-Change-Id: I3b8e77db7b3d06b9ed875bfe7787904ac753da11
-Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/6664161
-Commit-Queue: Charlie Lao &lt;cclao@google.com&gt;
-Reviewed-by: Amirali Abdolrashidi &lt;abdolrashidi@google.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a47f44</div>
-                                        <div class="message">Set use_siso=true by default in .gn
-
-This CL enables use_siso=true by default.
-Developers builds will switch to Siso, or get suggestion to run
-`gn clean` to switch.
-
-Bug: b/401959048
-Change-Id: I7cf7efecc9cd8c7816dbbd74ea48e66e61a1b6f2
-Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/6589553
-Auto-Submit: Junji Watanabe &lt;jwata@google.com&gt;
-Commit-Queue: Yuly Novikov &lt;ynovikov@chromium.org&gt;
-Reviewed-by: Yuly Novikov &lt;ynovikov@chromium.org&gt;
-Reviewed-by: Geoff Lang &lt;geofflang@chromium.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2fd033d</div>
-                                        <div class="message">Vulkan: Optimize updates to uniform buffers
-
-... when only the offset is modified. Most of the work done when
-handling dirty uniforms can be skipped since the buffer bindings
-haven't changed
-
-Bug: angleproject:386749841
-Tests: UniformBufferTest31.UniformBufferBindingRangeChange*Vulkan
-Change-Id: Ic811bd71f0f2993f88ce9bcf93f9e8e46dfc6d99
-Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/6581359
-Reviewed-by: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;
-Reviewed-by: Charlie Lao &lt;cclao@google.com&gt;
-Commit-Queue: mohan maiya &lt;m.maiya@samsung.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d59dd3e</div>
-                                        <div class="message">Unskip passing tests
-
-The spec change to varying packing in Vulkan is reverted and so is the
-SPIR-V validation change that enforced it.
-
-Bug: angleproject:404418769
-Change-Id: I6eb82b8285121f65a4ac071ad6ede106dfe07988
-Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/6661620
-Reviewed-by: Yuly Novikov &lt;ynovikov@chromium.org&gt;
-Commit-Queue: Yuly Novikov &lt;ynovikov@chromium.org&gt;
-Auto-Submit: Shahbaz Youssefi &lt;syoussefi@chromium.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#60c50fe</div>
-                                        <div class="message">Roll vulkan-deps from 316ed08fbc9a to 317a1e4780ef (11 revisions)
-
-https://chromium.googlesource.com/vulkan-deps.git/+log/316ed08fbc9a..317a1e4780ef
-
-Also rolling transitive DEPS:
-  https://chromium.googlesource.com/external/github.com/KhronosGroup/SPIRV-Tools/+log/422150b405c2ac2e05e51a19defabb232efd9187..108b19e5c6979f496deffad4acbe354237afa7d3
-  https://chromium.googlesource.com/external/github.com/KhronosGroup/Vulkan-Headers/+log/b39ab380a44b6c8df462c34e976ea9ce2d2c336b..10739e8e00a7b6f74d22dd0a547f1406ff1f5eb9
-  https://chromium.googlesource.com/external/github.com/KhronosGroup/Vulkan-Loader/+log/dc6786e527cf8cefd244318f546b3b2ec26e84f4..c8a2c8c9164a58ce71c1c77104e28e8de724539e
-  https://chromium.googlesource.com/external/github.com/KhronosGroup/Vulkan-Tools/+log/d671923090e4dc74c0ebdb10c6e09fa0826e1fe9..e3fc64396755191b3c51e5c57d0454872e7fa487
-  https://chromium.googlesource.com/external/github.com/KhronosGroup/Vulkan-Utility-Libraries/+log/54c9baf20802a13279e23fa4cb0528dd5cf16064..0f0babb553a60da5971d9f4d40cf720ce01602f1
-  https://chromium.googlesource.com/external/github.com/KhronosGroup/Vulkan-ValidationLayers/+log/4b207eefa09f304a06c237fcf4913304e0b7d8d1..89c6a9b6500e2e0bda127113bbfe1d70f1ab2d20
-
-If this roll has caused a breakage, revert this CL and stop the roller
-using the controls here:
-https://autoroll.skia.org/r/vulkan-deps-angle-autoroll
-Please CC angle-team@google.com,syoussefi@google.com on the revert to
-ensure that a human
-is aware of the problem.
-
-To file a bug in ANGLE:
-https://bugs.chromium.org/p/angleproject/issues/entry
-
-To report a problem with the AutoRoller itself, please file a bug:
-https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
-
-Documentation for the AutoRoller is here:
-https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
-
-Bug: None
-Tbr: syoussefi@google.com
-Change-Id: I2d388ca2b4fb9ccfb6edca31fc697273d6f4513a
-Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/6661102
-Bot-Commit: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Commit-Queue: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8bc3d6e</div>
-                                        <div class="message">Roll Chromium from 558ed507cbc4 to f88e654e8ceb (799 revisions)
-
-https://chromium.googlesource.com/chromium/src.git/+log/558ed507cbc4..f88e654e8ceb
-
-If this roll has caused a breakage, revert this CL and stop the roller
-using the controls here:
-https://autoroll.skia.org/r/chromium-angle-autoroll
-Please CC angle-team@google.com,syoussefi@google.com on the revert to
-ensure that a human
-is aware of the problem.
-
-To file a bug in Chromium:
-https://bugs.chromium.org/p/chromium/issues/entry
-To file a bug in ANGLE:
-https://bugs.chromium.org/p/angleproject/issues/entry
-
-To report a problem with the AutoRoller itself, please file a bug:
-https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
-
-Documentation for the AutoRoller is here:
-https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
-
-Changed dependencies
-* build: https://chromium.googlesource.com/chromium/src/build.git/+log/ed15b02ce4..169fcf699b
-* buildtools: https://chromium.googlesource.com/chromium/src/buildtools.git/+log/b2eba427b8..5b7491dfe5
-* testing: https://chromium.googlesource.com/chromium/src/testing/+log/4e8c09e96b..0d5210a4b1
-* third_party/android_build_tools/lint/cipd: Ddt_nMFT2APf615MrUZPaZpe-MqZSNrJmk8s9ud-f3gC..RevkTwhOQRk-oOzI4BBk3FYEeVAlBijeTqjNPrGsi_8C
-* third_party/android_build_tools/manifest_merger/cipd: JcTHGCKOl5tWhax5LSv_vf5dQV14RZdPF9xSRKU76JgC..v0s5-TwZ9OxfzbqU5ULhQ7vufSuKIIld6Z7TK8artzoC
-* third_party/android_deps: https://chromium.googlesource.com/chromium/src/third_party/android_deps/+log/8a80ddf29e..c7f3762b71
-* third_party/catapult: https://chromium.googlesource.com/catapult.git/+log/116ec83ba8..a03b70978c
-* third_party/depot_tools: https://chromium.googlesource.com/chromium/tools/depot_tools.git/+log/9a17210302..8f87843807
-* third_party/llvm-libc/src: https://chromium.googlesource.com/external/github.com/llvm/llvm-project/libc.git/+log/e09972e094..3dc83eebbd
-* third_party/r8/cipd: kgSCvDyebyXaL6suvPTOC8fS-Wsu-SmeFTrIkT51K14C..9vZCRnASPSjh3_T-2AsumCO_8C5PuBJ5-e84K9b7-80C
-* third_party/siso/cipd: git_revision:7e7d85fc69f9084d2168385fb504b31e830dbfff..git_revision:c23de742b8483ddc09d8b68ef845efc7f5c6192f
-* tools/android: https://chromium.googlesource.com/chromium/src/tools/android/+log/dd092af0a1..5a2ef49216
-* tools/clang: https://chromium.googlesource.com/chromium/src/tools/clang.git/+log/299c639544..ae0ff70908
-* tools/luci-go: git_revision:0250323d999386415553b5e2297eafe827ca41f3..git_revision:b0488766ec2a119f97c0189ffa5fff13e4da0131
-* tools/luci-go: git_revision:0250323d999386415553b5e2297eafe827ca41f3..git_revision:b0488766ec2a119f97c0189ffa5fff13e4da0131
-* tools/luci-go: git_revision:0250323d999386415553b5e2297eafe827ca41f3..git_revision:b0488766ec2a119f97c0189ffa5fff13e4da0131
-* tools/perf: https://chromium.googlesource.com/chromium/src/tools/perf/+log/854c2669c7..bd0baf9e31
-No update to Clang.
-
-Bug: None
-Tbr: syoussefi@google.com
-Change-Id: Icccb70141b839f1f52d8b62075183772f013099e
-Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/6661100
-Bot-Commit: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Commit-Queue: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2102183</div>
-                                        <div class="message">Roll VK-GL-CTS from 9390207187c6 to 4c617fa74b67 (9 revisions)
-
-https://chromium.googlesource.com/external/github.com/KhronosGroup/VK-GL-CTS.git/+log/9390207187c6..4c617fa74b67
-
-2025-06-21 michal.jakubek@mobica.com Incorrect object reservation count
-choices made by the CTS
-2025-06-21 michal.jakubek@mobica.com Adapt query pool statistics tests
-to Capabilities System
-2025-06-21 ewerness@nvidia.com Ray tracing vertex fetch alignment
-changes for testing
-2025-06-21 ziga@lunarg.com Add test case for tessellation matrix
-multiplication
-2025-06-21 zzoon@igalia.com Set to use layered dpb only when separate
-dpb not supported
-2025-06-21 michal.jakubek@mobica.com Adapt depth tests to Capabilities
-System
-2025-06-21 lorenzo@khronosgroup.org Merge vk-gl-cts/vulkan-cts-1.4.3
-into vk-gl-cts/main
-2025-06-18 ewerness@nvidia.com Delete comment with a merge conflict in
-it
-2025-06-18 lorenzo@khronosgroup.org Add comments and fix order of
-generated code
-
-If this roll has caused a breakage, revert this CL and stop the roller
-using the controls here:
-https://autoroll.skia.org/r/vk-gl-cts-angle-autoroll
-Please CC angle-team@google.com,syoussefi@google.com on the revert to
-ensure that a human
-is aware of the problem.
-
-To file a bug in ANGLE:
-https://bugs.chromium.org/p/angleproject/issues/entry
-
-To report a problem with the AutoRoller itself, please file a bug:
-https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
-
-Documentation for the AutoRoller is here:
-https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
-
-Bug: None
-Tbr: syoussefi@google.com
-Change-Id: Ib2e088cffa41e78469b747f096b17d41d38ef518
-Reviewed-on: https://chromium-review.googlesource.com/c/angle/angle/+/6659844
-Commit-Queue: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Bot-Commit: angle-autoroll &lt;angle-autoroll@skia-public.iam.gserviceaccount.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#26 1.21.6-1.21.7 not working</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by ThatMG393 in <span class="repo">ErdbeerbaerLP/DiscordIntegration</span></div>
-                                    <div class="comment">Seems like 1.21.6-1.21.7 was released and it's working fine. Closing the issue...</div>
                                 </div>
                             </section>
                         </div>
